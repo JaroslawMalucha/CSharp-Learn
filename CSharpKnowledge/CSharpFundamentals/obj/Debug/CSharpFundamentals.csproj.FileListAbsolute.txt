@@ -1,0 +1,56 @@
+D:\Jarek\Projects\VSProjects\C#\_JMproj\basics\basics1\bin\Debug\basics1.exe.config
+D:\Jarek\Projects\VSProjects\C#\_JMproj\basics\basics1\bin\Debug\basics1.exe
+D:\Jarek\Projects\VSProjects\C#\_JMproj\basics\basics1\bin\Debug\basics1.pdb
+D:\Jarek\Projects\VSProjects\C#\_JMproj\basics\basics1\obj\Debug\CSharpFundamentals.csproj.CoreCompileInputs.cache
+D:\Jarek\Projects\VSProjects\C#\_JMproj\basics\basics1\obj\Debug\basics1.exe
+D:\Jarek\Projects\VSProjects\C#\_JMproj\basics\basics1\obj\Debug\basics1.pdb
+D:\Jarek\Projects\VSProjects\C#\_JMproj\basics\basics1\obj\Debug\CSharpFundamentals.csprojResolveAssemblyReference.cache
+D:\Jarek\Projects\VSProjects\CSharp\_JMproj\basics\basics1\bin\Debug\basics1.exe.config
+D:\Jarek\Projects\VSProjects\CSharp\_JMproj\basics\basics1\bin\Debug\basics1.exe
+D:\Jarek\Projects\VSProjects\CSharp\_JMproj\basics\basics1\bin\Debug\basics1.pdb
+D:\Jarek\Projects\VSProjects\CSharp\_JMproj\basics\basics1\obj\Debug\CSharpFundamentals.csprojResolveAssemblyReference.cache
+D:\Jarek\Projects\VSProjects\CSharp\_JMproj\basics\basics1\obj\Debug\CSharpFundamentals.csproj.CoreCompileInputs.cache
+D:\Jarek\Projects\VSProjects\CSharp\_JMproj\basics\basics1\obj\Debug\basics1.exe
+D:\Jarek\Projects\VSProjects\CSharp\_JMproj\basics\basics1\obj\Debug\basics1.pdb
+D:\Jarek\Projects\VSProjects\CSharp\_JMproj\basics\basics1\bin\Debug\CSharpIntermediate.dll
+D:\Jarek\Projects\VSProjects\CSharp\_JMproj\basics\basics1\bin\Debug\CSharpIntermediate.pdb
+D:\Jarek\Projects\VSProjects\CSharp\_JMproj\basics\CSharpKnowledge\basics1\bin\Debug\basics1.exe.config
+D:\Jarek\Projects\VSProjects\CSharp\_JMproj\basics\CSharpKnowledge\basics1\bin\Debug\basics1.exe
+D:\Jarek\Projects\VSProjects\CSharp\_JMproj\basics\CSharpKnowledge\basics1\bin\Debug\basics1.pdb
+D:\Jarek\Projects\VSProjects\CSharp\_JMproj\basics\CSharpKnowledge\basics1\bin\Debug\CSharpIntermediate.dll
+D:\Jarek\Projects\VSProjects\CSharp\_JMproj\basics\CSharpKnowledge\basics1\bin\Debug\CSharpIntermediate.pdb
+D:\Jarek\Projects\VSProjects\CSharp\_JMproj\basics\CSharpKnowledge\basics1\obj\Debug\CSharpFundamentals.csprojResolveAssemblyReference.cache
+D:\Jarek\Projects\VSProjects\CSharp\_JMproj\basics\CSharpKnowledge\basics1\obj\Debug\CSharpFundamentals.csproj.CoreCompileInputs.cache
+D:\Jarek\Projects\VSProjects\CSharp\_JMproj\basics\CSharpKnowledge\basics1\obj\Debug\basics1.exe
+D:\Jarek\Projects\VSProjects\CSharp\_JMproj\basics\CSharpKnowledge\basics1\obj\Debug\basics1.pdb
+C:\Users\UJXM9U9\Desktop\Projects\Projects - AB\C#\csharpknowledge\basics1\bin\Debug\basics1.exe.config
+C:\Users\UJXM9U9\Desktop\Projects\Projects - AB\C#\csharpknowledge\basics1\bin\Debug\basics1.exe
+C:\Users\UJXM9U9\Desktop\Projects\Projects - AB\C#\csharpknowledge\basics1\bin\Debug\basics1.pdb
+C:\Users\UJXM9U9\Desktop\Projects\Projects - AB\C#\csharpknowledge\basics1\bin\Debug\CSharpIntermediate.dll
+C:\Users\UJXM9U9\Desktop\Projects\Projects - AB\C#\csharpknowledge\basics1\bin\Debug\CSharpIntermediate.pdb
+C:\Users\UJXM9U9\Desktop\Projects\Projects - AB\C#\csharpknowledge\basics1\obj\Debug\CSharpFundamentals.csprojResolveAssemblyReference.cache
+C:\Users\UJXM9U9\Desktop\Projects\Projects - AB\C#\csharpknowledge\basics1\obj\Debug\CSharpFundamentals.csproj.CoreCompileInputs.cache
+C:\Users\UJXM9U9\Desktop\Projects\Projects - AB\C#\csharpknowledge\basics1\obj\Debug\basics1.exe
+C:\Users\UJXM9U9\Desktop\Projects\Projects - AB\C#\csharpknowledge\basics1\obj\Debug\basics1.pdb
+D:\Jarek\Projects\VSProjects\CSharp\_JMproj\CSharpKnowledge\basics1\bin\Debug\basics1.exe.config
+D:\Jarek\Projects\VSProjects\CSharp\_JMproj\CSharpKnowledge\basics1\bin\Debug\basics1.exe
+D:\Jarek\Projects\VSProjects\CSharp\_JMproj\CSharpKnowledge\basics1\bin\Debug\basics1.pdb
+D:\Jarek\Projects\VSProjects\CSharp\_JMproj\CSharpKnowledge\basics1\bin\Debug\CSharpAdvaced.dll
+D:\Jarek\Projects\VSProjects\CSharp\_JMproj\CSharpKnowledge\basics1\bin\Debug\CSharpIntermediate.dll
+D:\Jarek\Projects\VSProjects\CSharp\_JMproj\CSharpKnowledge\basics1\bin\Debug\CSharpAdvaced.pdb
+D:\Jarek\Projects\VSProjects\CSharp\_JMproj\CSharpKnowledge\basics1\bin\Debug\CSharpIntermediate.pdb
+D:\Jarek\Projects\VSProjects\CSharp\_JMproj\CSharpKnowledge\basics1\obj\Debug\CSharpFundamentals.csprojResolveAssemblyReference.cache
+D:\Jarek\Projects\VSProjects\CSharp\_JMproj\CSharpKnowledge\basics1\obj\Debug\CSharpFundamentals.csproj.CoreCompileInputs.cache
+D:\Jarek\Projects\VSProjects\CSharp\_JMproj\CSharpKnowledge\basics1\obj\Debug\basics1.exe
+D:\Jarek\Projects\VSProjects\CSharp\_JMproj\CSharpKnowledge\basics1\obj\Debug\basics1.pdb
+D:\Jarek\Projects\VSProjects\CSharp\_JMproj\CSharpKnowledge\CSharpFundamentals\bin\Debug\CSharpFundamentals.exe.config
+D:\Jarek\Projects\VSProjects\CSharp\_JMproj\CSharpKnowledge\CSharpFundamentals\bin\Debug\CSharpFundamentals.exe
+D:\Jarek\Projects\VSProjects\CSharp\_JMproj\CSharpKnowledge\CSharpFundamentals\bin\Debug\CSharpFundamentals.pdb
+D:\Jarek\Projects\VSProjects\CSharp\_JMproj\CSharpKnowledge\CSharpFundamentals\bin\Debug\CSharpAdvaced.dll
+D:\Jarek\Projects\VSProjects\CSharp\_JMproj\CSharpKnowledge\CSharpFundamentals\bin\Debug\CSharpIntermediate.dll
+D:\Jarek\Projects\VSProjects\CSharp\_JMproj\CSharpKnowledge\CSharpFundamentals\bin\Debug\CSharpAdvaced.pdb
+D:\Jarek\Projects\VSProjects\CSharp\_JMproj\CSharpKnowledge\CSharpFundamentals\bin\Debug\CSharpIntermediate.pdb
+D:\Jarek\Projects\VSProjects\CSharp\_JMproj\CSharpKnowledge\CSharpFundamentals\obj\Debug\CSharpFundamentals.csprojResolveAssemblyReference.cache
+D:\Jarek\Projects\VSProjects\CSharp\_JMproj\CSharpKnowledge\CSharpFundamentals\obj\Debug\CSharpFundamentals.csproj.CoreCompileInputs.cache
+D:\Jarek\Projects\VSProjects\CSharp\_JMproj\CSharpKnowledge\CSharpFundamentals\obj\Debug\CSharpFundamentals.exe
+D:\Jarek\Projects\VSProjects\CSharp\_JMproj\CSharpKnowledge\CSharpFundamentals\obj\Debug\CSharpFundamentals.pdb

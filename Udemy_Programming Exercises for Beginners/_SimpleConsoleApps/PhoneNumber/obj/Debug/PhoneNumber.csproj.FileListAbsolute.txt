@@ -1,0 +1,20 @@
+c:\users\pavol\onedrive\documents\visual studio 2015\Projects\PhoneNumber\PhoneNumber\bin\Debug\PhoneNumber.exe.config
+c:\users\pavol\onedrive\documents\visual studio 2015\Projects\PhoneNumber\PhoneNumber\bin\Debug\PhoneNumber.exe
+c:\users\pavol\onedrive\documents\visual studio 2015\Projects\PhoneNumber\PhoneNumber\bin\Debug\PhoneNumber.pdb
+c:\users\pavol\onedrive\documents\visual studio 2015\Projects\PhoneNumber\PhoneNumber\obj\Debug\PhoneNumber.csprojResolveAssemblyReference.cache
+c:\users\pavol\onedrive\documents\visual studio 2015\Projects\PhoneNumber\PhoneNumber\obj\Debug\PhoneNumber.exe
+c:\users\pavol\onedrive\documents\visual studio 2015\Projects\PhoneNumber\PhoneNumber\obj\Debug\PhoneNumber.pdb
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\SimpleConsoleApps\PhoneNumber\bin\Debug\PhoneNumber.exe.config
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\SimpleConsoleApps\PhoneNumber\bin\Debug\PhoneNumber.exe
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\SimpleConsoleApps\PhoneNumber\bin\Debug\PhoneNumber.pdb
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\SimpleConsoleApps\PhoneNumber\obj\Debug\PhoneNumber.csprojResolveAssemblyReference.cache
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\SimpleConsoleApps\PhoneNumber\obj\Debug\PhoneNumber.csproj.CoreCompileInputs.cache
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\SimpleConsoleApps\PhoneNumber\obj\Debug\PhoneNumber.exe
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\SimpleConsoleApps\PhoneNumber\obj\Debug\PhoneNumber.pdb
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\Programming Exercises for Beginners\_SimpleConsoleApps\PhoneNumber\bin\Debug\PhoneNumber.exe.config
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\Programming Exercises for Beginners\_SimpleConsoleApps\PhoneNumber\bin\Debug\PhoneNumber.exe
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\Programming Exercises for Beginners\_SimpleConsoleApps\PhoneNumber\bin\Debug\PhoneNumber.pdb
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\Programming Exercises for Beginners\_SimpleConsoleApps\PhoneNumber\obj\Debug\PhoneNumber.csprojResolveAssemblyReference.cache
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\Programming Exercises for Beginners\_SimpleConsoleApps\PhoneNumber\obj\Debug\PhoneNumber.csproj.CoreCompileInputs.cache
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\Programming Exercises for Beginners\_SimpleConsoleApps\PhoneNumber\obj\Debug\PhoneNumber.exe
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\Programming Exercises for Beginners\_SimpleConsoleApps\PhoneNumber\obj\Debug\PhoneNumber.pdb

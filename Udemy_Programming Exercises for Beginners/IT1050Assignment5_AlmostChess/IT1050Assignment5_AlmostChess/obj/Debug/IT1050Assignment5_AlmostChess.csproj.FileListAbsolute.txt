@@ -1,0 +1,6 @@
+c:\users\pavol\onedrive\documents\visual studio 2015\Projects\IT1050Assignment5_AlmostChess\IT1050Assignment5_AlmostChess\bin\Debug\IT1050Assignment5_AlmostChess.exe.config
+c:\users\pavol\onedrive\documents\visual studio 2015\Projects\IT1050Assignment5_AlmostChess\IT1050Assignment5_AlmostChess\bin\Debug\IT1050Assignment5_AlmostChess.exe
+c:\users\pavol\onedrive\documents\visual studio 2015\Projects\IT1050Assignment5_AlmostChess\IT1050Assignment5_AlmostChess\bin\Debug\IT1050Assignment5_AlmostChess.pdb
+c:\users\pavol\onedrive\documents\visual studio 2015\Projects\IT1050Assignment5_AlmostChess\IT1050Assignment5_AlmostChess\obj\Debug\IT1050Assignment5_AlmostChess.csprojResolveAssemblyReference.cache
+c:\users\pavol\onedrive\documents\visual studio 2015\Projects\IT1050Assignment5_AlmostChess\IT1050Assignment5_AlmostChess\obj\Debug\IT1050Assignment5_AlmostChess.exe
+c:\users\pavol\onedrive\documents\visual studio 2015\Projects\IT1050Assignment5_AlmostChess\IT1050Assignment5_AlmostChess\obj\Debug\IT1050Assignment5_AlmostChess.pdb

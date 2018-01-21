@@ -1,0 +1,20 @@
+c:\users\pavol\onedrive\documents\visual studio 2015\Projects\Doyle-5-2-MathClass\Doyle-5-2-MathClass\bin\Debug\Doyle-5-2-MathClass.exe.config
+c:\users\pavol\onedrive\documents\visual studio 2015\Projects\Doyle-5-2-MathClass\Doyle-5-2-MathClass\bin\Debug\Doyle-5-2-MathClass.exe
+c:\users\pavol\onedrive\documents\visual studio 2015\Projects\Doyle-5-2-MathClass\Doyle-5-2-MathClass\bin\Debug\Doyle-5-2-MathClass.pdb
+c:\users\pavol\onedrive\documents\visual studio 2015\Projects\Doyle-5-2-MathClass\Doyle-5-2-MathClass\obj\Debug\Doyle-5-2-MathClass.exe
+c:\users\pavol\onedrive\documents\visual studio 2015\Projects\Doyle-5-2-MathClass\Doyle-5-2-MathClass\obj\Debug\Doyle-5-2-MathClass.pdb
+c:\users\pavol\onedrive\documents\visual studio 2015\Projects\Doyle-5-2-MathClass\Doyle-5-2-MathClass\obj\Debug\Doyle-5-2-MathClass.csprojResolveAssemblyReference.cache
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\SimpleConsoleApps\Doyle-5-2-MathClass\bin\Debug\Doyle-5-2-MathClass.exe.config
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\SimpleConsoleApps\Doyle-5-2-MathClass\bin\Debug\Doyle-5-2-MathClass.exe
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\SimpleConsoleApps\Doyle-5-2-MathClass\bin\Debug\Doyle-5-2-MathClass.pdb
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\SimpleConsoleApps\Doyle-5-2-MathClass\obj\Debug\Doyle-5-2-MathClass.csprojResolveAssemblyReference.cache
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\SimpleConsoleApps\Doyle-5-2-MathClass\obj\Debug\Doyle-5-2-MathClass.csproj.CoreCompileInputs.cache
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\SimpleConsoleApps\Doyle-5-2-MathClass\obj\Debug\Doyle-5-2-MathClass.exe
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\SimpleConsoleApps\Doyle-5-2-MathClass\obj\Debug\Doyle-5-2-MathClass.pdb
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\Programming Exercises for Beginners\_SimpleConsoleApps\Doyle-5-2-MathClass\bin\Debug\Doyle-5-2-MathClass.exe.config
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\Programming Exercises for Beginners\_SimpleConsoleApps\Doyle-5-2-MathClass\bin\Debug\Doyle-5-2-MathClass.exe
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\Programming Exercises for Beginners\_SimpleConsoleApps\Doyle-5-2-MathClass\bin\Debug\Doyle-5-2-MathClass.pdb
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\Programming Exercises for Beginners\_SimpleConsoleApps\Doyle-5-2-MathClass\obj\Debug\Doyle-5-2-MathClass.csprojResolveAssemblyReference.cache
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\Programming Exercises for Beginners\_SimpleConsoleApps\Doyle-5-2-MathClass\obj\Debug\Doyle-5-2-MathClass.csproj.CoreCompileInputs.cache
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\Programming Exercises for Beginners\_SimpleConsoleApps\Doyle-5-2-MathClass\obj\Debug\Doyle-5-2-MathClass.exe
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\Programming Exercises for Beginners\_SimpleConsoleApps\Doyle-5-2-MathClass\obj\Debug\Doyle-5-2-MathClass.pdb

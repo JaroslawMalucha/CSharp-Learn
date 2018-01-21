@@ -1,0 +1,10 @@
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyDigitalClock\MyDigitalClock\bin\Debug\MyDigitalClock.exe.config
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyDigitalClock\MyDigitalClock\bin\Debug\MyDigitalClock.exe
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyDigitalClock\MyDigitalClock\bin\Debug\MyDigitalClock.pdb
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyDigitalClock\MyDigitalClock\obj\Debug\MyDigitalClock.csprojResolveAssemblyReference.cache
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyDigitalClock\MyDigitalClock\obj\Debug\MyDigitalClock.Form1.resources
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyDigitalClock\MyDigitalClock\obj\Debug\MyDigitalClock.Properties.Resources.resources
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyDigitalClock\MyDigitalClock\obj\Debug\MyDigitalClock.csproj.GenerateResource.Cache
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyDigitalClock\MyDigitalClock\obj\Debug\MyDigitalClock.csproj.CoreCompileInputs.cache
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyDigitalClock\MyDigitalClock\obj\Debug\MyDigitalClock.exe
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyDigitalClock\MyDigitalClock\obj\Debug\MyDigitalClock.pdb

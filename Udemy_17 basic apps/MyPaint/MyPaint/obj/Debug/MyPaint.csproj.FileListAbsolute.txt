@@ -1,0 +1,9 @@
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyPaint\MyPaint\bin\Debug\MyPaint.exe.config
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyPaint\MyPaint\bin\Debug\MyPaint.exe
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyPaint\MyPaint\bin\Debug\MyPaint.pdb
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyPaint\MyPaint\obj\Debug\MyPaint.Form1.resources
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyPaint\MyPaint\obj\Debug\MyPaint.Properties.Resources.resources
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyPaint\MyPaint\obj\Debug\MyPaint.csproj.GenerateResource.Cache
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyPaint\MyPaint\obj\Debug\MyPaint.csproj.CoreCompileInputs.cache
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyPaint\MyPaint\obj\Debug\MyPaint.exe
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyPaint\MyPaint\obj\Debug\MyPaint.pdb

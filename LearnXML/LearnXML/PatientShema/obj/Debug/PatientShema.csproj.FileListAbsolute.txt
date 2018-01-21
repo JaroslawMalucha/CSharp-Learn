@@ -1,0 +1,2 @@
+D:\Jarek\Projects\CSharp\_JMproj\AutomationTool\PatientShema\obj\Debug\PatientShema.csprojResolveAssemblyReference.cache
+D:\Jarek\Projects\CSharp\_JMproj\AutomationTool\PatientShema\obj\Debug\PatientShema.csproj.CoreCompileInputs.cache

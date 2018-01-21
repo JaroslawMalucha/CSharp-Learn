@@ -1,0 +1,7 @@
+D:\Jarek\Projects\CSharp\_JMproj\CSharpKnowledge\LINQtoXML\bin\Debug\LINQtoXML.exe.config
+D:\Jarek\Projects\CSharp\_JMproj\CSharpKnowledge\LINQtoXML\bin\Debug\LINQtoXML.exe
+D:\Jarek\Projects\CSharp\_JMproj\CSharpKnowledge\LINQtoXML\bin\Debug\LINQtoXML.pdb
+D:\Jarek\Projects\CSharp\_JMproj\CSharpKnowledge\LINQtoXML\obj\Debug\LINQtoXML.csprojResolveAssemblyReference.cache
+D:\Jarek\Projects\CSharp\_JMproj\CSharpKnowledge\LINQtoXML\obj\Debug\LINQtoXML.csproj.CoreCompileInputs.cache
+D:\Jarek\Projects\CSharp\_JMproj\CSharpKnowledge\LINQtoXML\obj\Debug\LINQtoXML.exe
+D:\Jarek\Projects\CSharp\_JMproj\CSharpKnowledge\LINQtoXML\obj\Debug\LINQtoXML.pdb

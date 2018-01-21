@@ -1,0 +1,9 @@
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\mazeGame\mazeGame\bin\Debug\mazeGame.exe.config
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\mazeGame\mazeGame\bin\Debug\mazeGame.exe
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\mazeGame\mazeGame\bin\Debug\mazeGame.pdb
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\mazeGame\mazeGame\obj\Debug\mazeGame.csprojResolveAssemblyReference.cache
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\mazeGame\mazeGame\obj\Debug\mazeGame.Form1.resources
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\mazeGame\mazeGame\obj\Debug\mazeGame.Properties.Resources.resources
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\mazeGame\mazeGame\obj\Debug\mazeGame.csproj.GenerateResource.Cache
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\mazeGame\mazeGame\obj\Debug\mazeGame.exe
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\mazeGame\mazeGame\obj\Debug\mazeGame.pdb

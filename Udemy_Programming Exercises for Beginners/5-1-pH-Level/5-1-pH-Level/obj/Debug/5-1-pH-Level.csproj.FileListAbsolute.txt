@@ -1,0 +1,6 @@
+c:\users\pavol\onedrive\documents\visual studio 2015\Projects\Doyle\5-1-pH-Level\5-1-pH-Level\bin\Debug\5-1-pH-Level.exe.config
+c:\users\pavol\onedrive\documents\visual studio 2015\Projects\Doyle\5-1-pH-Level\5-1-pH-Level\bin\Debug\5-1-pH-Level.exe
+c:\users\pavol\onedrive\documents\visual studio 2015\Projects\Doyle\5-1-pH-Level\5-1-pH-Level\bin\Debug\5-1-pH-Level.pdb
+c:\users\pavol\onedrive\documents\visual studio 2015\Projects\Doyle\5-1-pH-Level\5-1-pH-Level\obj\Debug\5-1-pH-Level.csprojResolveAssemblyReference.cache
+c:\users\pavol\onedrive\documents\visual studio 2015\Projects\Doyle\5-1-pH-Level\5-1-pH-Level\obj\Debug\5-1-pH-Level.exe
+c:\users\pavol\onedrive\documents\visual studio 2015\Projects\Doyle\5-1-pH-Level\5-1-pH-Level\obj\Debug\5-1-pH-Level.pdb

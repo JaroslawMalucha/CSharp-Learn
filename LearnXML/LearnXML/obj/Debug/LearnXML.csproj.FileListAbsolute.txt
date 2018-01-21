@@ -1,0 +1,6 @@
+D:\Jarek\Projects\CSharp\_JMproj\CSharpKnowledge\LearnXML\LearnXML\bin\Debug\LearnXML.exe.config
+D:\Jarek\Projects\CSharp\_JMproj\CSharpKnowledge\LearnXML\LearnXML\bin\Debug\LearnXML.exe
+D:\Jarek\Projects\CSharp\_JMproj\CSharpKnowledge\LearnXML\LearnXML\bin\Debug\LearnXML.pdb
+D:\Jarek\Projects\CSharp\_JMproj\CSharpKnowledge\LearnXML\LearnXML\obj\Debug\LearnXML.csproj.CoreCompileInputs.cache
+D:\Jarek\Projects\CSharp\_JMproj\CSharpKnowledge\LearnXML\LearnXML\obj\Debug\LearnXML.exe
+D:\Jarek\Projects\CSharp\_JMproj\CSharpKnowledge\LearnXML\LearnXML\obj\Debug\LearnXML.pdb

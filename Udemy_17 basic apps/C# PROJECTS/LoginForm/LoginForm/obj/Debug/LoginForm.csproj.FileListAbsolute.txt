@@ -1,0 +1,10 @@
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\LoginForm\LoginForm\bin\Debug\LoginForm.exe.config
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\LoginForm\LoginForm\bin\Debug\LoginForm.exe
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\LoginForm\LoginForm\bin\Debug\LoginForm.pdb
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\LoginForm\LoginForm\obj\Debug\LoginForm.csprojResolveAssemblyReference.cache
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\LoginForm\LoginForm\obj\Debug\LoginForm.Properties.Resources.resources
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.GenerateResource.Cache
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\LoginForm\LoginForm\obj\Debug\LoginForm.exe
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\LoginForm\LoginForm\obj\Debug\LoginForm.pdb
+C:\Users\Bluelime Learning So\documents\visual studio 2015\Projects\LoginForm\LoginForm\obj\Debug\LoginForm.frmLogin.resources
+C:\Users\Bluelime Learning So\documents\visual studio 2015\Projects\LoginForm\LoginForm\obj\Debug\LoginForm.frmLoggedIn.resources

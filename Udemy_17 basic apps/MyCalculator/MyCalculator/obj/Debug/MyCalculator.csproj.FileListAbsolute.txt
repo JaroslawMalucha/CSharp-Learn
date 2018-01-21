@@ -1,0 +1,10 @@
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyCalculator\MyCalculator\bin\Debug\MyCalculator.exe.config
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyCalculator\MyCalculator\bin\Debug\MyCalculator.exe
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyCalculator\MyCalculator\bin\Debug\MyCalculator.pdb
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyCalculator\MyCalculator\obj\Debug\MyCalculator.Form1.resources
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyCalculator\MyCalculator\obj\Debug\MyCalculator.Properties.Resources.resources
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyCalculator\MyCalculator\obj\Debug\MyCalculator.csproj.GenerateResource.Cache
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyCalculator\MyCalculator\obj\Debug\MyCalculator.csproj.CoreCompileInputs.cache
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyCalculator\MyCalculator\obj\Debug\MyCalculator.exe
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyCalculator\MyCalculator\obj\Debug\MyCalculator.pdb
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyCalculator\MyCalculator\obj\Debug\MyCalculator.csprojResolveAssemblyReference.cache

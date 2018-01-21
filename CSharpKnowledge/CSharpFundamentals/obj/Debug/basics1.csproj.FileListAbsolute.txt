@@ -1,0 +1,7 @@
+D:\Jarek\Projects\VSProjects\C#\_JMproj\basics\basics1\obj\Debug\basics1.csprojResolveAssemblyReference.cache
+D:\Jarek\Projects\VSProjects\C#\_JMproj\basics\basics1\obj\Debug\basics1.csproj.CoreCompileInputs.cache
+D:\Jarek\Projects\VSProjects\C#\_JMproj\basics\basics1\bin\Debug\basics1.exe.config
+D:\Jarek\Projects\VSProjects\C#\_JMproj\basics\basics1\bin\Debug\basics1.exe
+D:\Jarek\Projects\VSProjects\C#\_JMproj\basics\basics1\bin\Debug\basics1.pdb
+D:\Jarek\Projects\VSProjects\C#\_JMproj\basics\basics1\obj\Debug\basics1.exe
+D:\Jarek\Projects\VSProjects\C#\_JMproj\basics\basics1\obj\Debug\basics1.pdb

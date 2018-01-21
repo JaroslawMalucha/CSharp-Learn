@@ -1,0 +1,9 @@
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\currencyConverter\currencyConverter\bin\Debug\currencyConverter.exe.config
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\currencyConverter\currencyConverter\bin\Debug\currencyConverter.exe
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\currencyConverter\currencyConverter\bin\Debug\currencyConverter.pdb
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\currencyConverter\currencyConverter\obj\Debug\currencyConverter.csprojResolveAssemblyReference.cache
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\currencyConverter\currencyConverter\obj\Debug\currencyConverter.Properties.Resources.resources
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\currencyConverter\currencyConverter\obj\Debug\currencyConverter.csproj.GenerateResource.Cache
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\currencyConverter\currencyConverter\obj\Debug\currencyConverter.exe
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\currencyConverter\currencyConverter\obj\Debug\currencyConverter.pdb
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\currencyConverter\currencyConverter\obj\Debug\currencyConverter.currencyConvert.resources

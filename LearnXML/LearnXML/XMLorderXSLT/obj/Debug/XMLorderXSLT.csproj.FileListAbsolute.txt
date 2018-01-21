@@ -1,0 +1,2 @@
+D:\Jarek\Projects\CSharp\_JMproj\AutomationTool\XMLorderXSLT\obj\Debug\XMLorderXSLT.csproj.CoreCompileInputs.cache
+D:\Jarek\Projects\CSharp\_JMproj\AutomationTool\XMLorderXSLT\obj\Debug\XMLorderXSLT.csprojResolveAssemblyReference.cache

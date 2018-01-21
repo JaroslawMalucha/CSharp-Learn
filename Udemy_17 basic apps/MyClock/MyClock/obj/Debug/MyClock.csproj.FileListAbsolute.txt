@@ -1,0 +1,10 @@
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyClock\MyClock\bin\Debug\MyClock.exe.config
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyClock\MyClock\bin\Debug\MyClock.exe
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyClock\MyClock\bin\Debug\MyClock.pdb
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyClock\MyClock\obj\Debug\MyClock.csprojResolveAssemblyReference.cache
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyClock\MyClock\obj\Debug\MyClock.Form1.resources
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyClock\MyClock\obj\Debug\MyClock.Properties.Resources.resources
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyClock\MyClock\obj\Debug\MyClock.csproj.GenerateResource.Cache
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyClock\MyClock\obj\Debug\MyClock.csproj.CoreCompileInputs.cache
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyClock\MyClock\obj\Debug\MyClock.exe
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyClock\MyClock\obj\Debug\MyClock.pdb

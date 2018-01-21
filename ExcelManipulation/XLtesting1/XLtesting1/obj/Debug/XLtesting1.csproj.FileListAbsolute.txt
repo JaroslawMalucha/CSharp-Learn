@@ -1,0 +1,16 @@
+D:\Jarek\Projects\VSProjects\C#\_JMproj\XLtesting1\XLtesting1\bin\Debug\XLtesting1.exe.config
+D:\Jarek\Projects\VSProjects\C#\_JMproj\XLtesting1\XLtesting1\bin\Debug\XLtesting1.exe
+D:\Jarek\Projects\VSProjects\C#\_JMproj\XLtesting1\XLtesting1\bin\Debug\XLtesting1.pdb
+D:\Jarek\Projects\VSProjects\C#\_JMproj\XLtesting1\XLtesting1\obj\Debug\XLtesting1.csprojResolveAssemblyReference.cache
+D:\Jarek\Projects\VSProjects\C#\_JMproj\XLtesting1\XLtesting1\obj\Debug\MainWindow.g.cs
+D:\Jarek\Projects\VSProjects\C#\_JMproj\XLtesting1\XLtesting1\obj\Debug\App.g.cs
+D:\Jarek\Projects\VSProjects\C#\_JMproj\XLtesting1\XLtesting1\obj\Debug\XLtesting1_MarkupCompile.cache
+D:\Jarek\Projects\VSProjects\C#\_JMproj\XLtesting1\XLtesting1\obj\Debug\XLtesting1_MarkupCompile.lref
+D:\Jarek\Projects\VSProjects\C#\_JMproj\XLtesting1\XLtesting1\obj\Debug\MainWindow.baml
+D:\Jarek\Projects\VSProjects\C#\_JMproj\XLtesting1\XLtesting1\obj\Debug\XLtesting1.g.resources
+D:\Jarek\Projects\VSProjects\C#\_JMproj\XLtesting1\XLtesting1\obj\Debug\XLtesting1.Properties.Resources.resources
+D:\Jarek\Projects\VSProjects\C#\_JMproj\XLtesting1\XLtesting1\obj\Debug\XLtesting1.csproj.GenerateResource.Cache
+D:\Jarek\Projects\VSProjects\C#\_JMproj\XLtesting1\XLtesting1\obj\Debug\XLtesting1.csproj.CoreCompileInputs.cache
+D:\Jarek\Projects\VSProjects\C#\_JMproj\XLtesting1\XLtesting1\obj\Debug\XLtesting1.exe
+D:\Jarek\Projects\VSProjects\C#\_JMproj\XLtesting1\XLtesting1\obj\Debug\XLtesting1.pdb
+D:\Jarek\Projects\VSProjects\C#\_JMproj\XLtesting1\XLtesting1\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll

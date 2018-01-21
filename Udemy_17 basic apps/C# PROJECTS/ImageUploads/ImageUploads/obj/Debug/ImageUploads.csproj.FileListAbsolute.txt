@@ -1,0 +1,9 @@
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\ImageUploads\ImageUploads\bin\Debug\ImageUploads.exe.config
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\ImageUploads\ImageUploads\bin\Debug\ImageUploads.exe
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\ImageUploads\ImageUploads\bin\Debug\ImageUploads.pdb
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\ImageUploads\ImageUploads\obj\Debug\ImageUploads.csprojResolveAssemblyReference.cache
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\ImageUploads\ImageUploads\obj\Debug\ImageUploads.Form1.resources
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\ImageUploads\ImageUploads\obj\Debug\ImageUploads.Properties.Resources.resources
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\ImageUploads\ImageUploads\obj\Debug\ImageUploads.csproj.GenerateResource.Cache
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\ImageUploads\ImageUploads\obj\Debug\ImageUploads.exe
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\ImageUploads\ImageUploads\obj\Debug\ImageUploads.pdb

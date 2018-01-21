@@ -1,0 +1,9 @@
+D:\Jarek\Projects\VSProjects\CSharp\_JMproj\CSharpKnowledge\CSharpAdvaced\bin\Debug\CSharpAdvaced.dll
+D:\Jarek\Projects\VSProjects\CSharp\_JMproj\CSharpKnowledge\CSharpAdvaced\bin\Debug\CSharpAdvaced.pdb
+D:\Jarek\Projects\VSProjects\CSharp\_JMproj\CSharpKnowledge\CSharpAdvaced\obj\Debug\CSharpAdvanced.csprojResolveAssemblyReference.cache
+D:\Jarek\Projects\VSProjects\CSharp\_JMproj\CSharpKnowledge\CSharpAdvaced\obj\Debug\CSharpAdvanced.csproj.CoreCompileInputs.cache
+D:\Jarek\Projects\VSProjects\CSharp\_JMproj\CSharpKnowledge\CSharpAdvaced\obj\Debug\CSharpAdvaced.dll
+D:\Jarek\Projects\VSProjects\CSharp\_JMproj\CSharpKnowledge\CSharpAdvaced\obj\Debug\CSharpAdvaced.pdb
+D:\Jarek\Projects\VSProjects\CSharp\_JMproj\CSharpKnowledge\CSharpAdvaced\bin\Debug\CSharpAsyncAwait.exe
+D:\Jarek\Projects\VSProjects\CSharp\_JMproj\CSharpKnowledge\CSharpAdvaced\bin\Debug\CSharpAsyncAwait.pdb
+D:\Jarek\Projects\VSProjects\CSharp\_JMproj\CSharpKnowledge\CSharpAdvaced\bin\Debug\CSharpAsyncAwait.exe.config

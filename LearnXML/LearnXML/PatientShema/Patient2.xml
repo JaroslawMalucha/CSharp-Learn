@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patient xmlns="http://tempuri.org/Patient.xsd" id="214">
+  <name>Bob</name>
+  <age>120</age>
+  <email>email1@bob.com</email>
+  <gender>M</gender>
+  <phone>2121</phone>
+  <paymentType>
+    <insurance>
+      <provider>Biscuit Insurance</provider>
+      <limit>34343</limit>
+    </insurance>
+  </paymentType>
+</Patient>

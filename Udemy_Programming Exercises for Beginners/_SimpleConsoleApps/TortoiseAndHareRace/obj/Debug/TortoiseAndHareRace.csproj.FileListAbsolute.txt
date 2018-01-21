@@ -1,0 +1,7 @@
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\Programming Exercises for Beginners\_SimpleConsoleApps\TortoiseAndHareRace\bin\Debug\TortoiseAndHareRace.exe.config
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\Programming Exercises for Beginners\_SimpleConsoleApps\TortoiseAndHareRace\bin\Debug\TortoiseAndHareRace.exe
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\Programming Exercises for Beginners\_SimpleConsoleApps\TortoiseAndHareRace\bin\Debug\TortoiseAndHareRace.pdb
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\Programming Exercises for Beginners\_SimpleConsoleApps\TortoiseAndHareRace\obj\Debug\TortoiseAndHareRace.csprojResolveAssemblyReference.cache
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\Programming Exercises for Beginners\_SimpleConsoleApps\TortoiseAndHareRace\obj\Debug\TortoiseAndHareRace.csproj.CoreCompileInputs.cache
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\Programming Exercises for Beginners\_SimpleConsoleApps\TortoiseAndHareRace\obj\Debug\TortoiseAndHareRace.exe
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\Programming Exercises for Beginners\_SimpleConsoleApps\TortoiseAndHareRace\obj\Debug\TortoiseAndHareRace.pdb

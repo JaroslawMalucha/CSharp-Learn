@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Patient"
+    targetNamespace="http://tempuri.org/Patient.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/Patient.xsd"
+    xmlns:mstns="http://tempuri.org/Patient.xsd"
+    xmlns:common="http://tempuri.org/Common.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+  <xs:include schemaLocation="PaymentType.xsd"/>
+  <xs:import schemaLocation="Common.xsd" namespace="http://tempuri.org/Common.xsd"/>
+  
+  
+  <xs:element name="Patient" type="mstns:Patient"/>
+
+  <xs:complexType name="Patient">
+    <xs:sequence> <!--all elements must be present, and in that order-->
+      <xs:element name="name" type="mstns:String15Chars"/>
+      <xs:element name="age" type="xs:int"/>
+      <xs:element name="email" type="xs:string" minOccurs="0"/><!--min makes it optional-->
+      <xs:element name="gender" type="mstns:Gender"/>
+      <xs:element name="phone" type="xs:string" maxOccurs="unbounded"/><!--max allows more elements-->
+      <xs:element name="paymentType" type="mstns:PaymentType"/>
+    </xs:sequence>
+    <xs:attribute name="id" type="common:Id" use="required"/>
+  </xs:complexType>
+
+
+
+
+  
+  <xs:simpleType name="String15Chars">
+    <xs:restriction base="xs:string">
+      <xs:maxLength value="15"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="Gender">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="M"/>
+      <xs:enumeration value="F"/>
+    </xs:restriction>
+  </xs:simpleType>
+  
+</xs:schema>

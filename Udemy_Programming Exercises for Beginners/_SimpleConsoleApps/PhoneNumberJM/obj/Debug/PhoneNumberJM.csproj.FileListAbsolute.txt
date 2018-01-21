@@ -1,0 +1,14 @@
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\SimpleConsoleApps\PhoneNumberJM\bin\Debug\PhoneNumberJM.exe.config
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\SimpleConsoleApps\PhoneNumberJM\bin\Debug\PhoneNumberJM.exe
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\SimpleConsoleApps\PhoneNumberJM\bin\Debug\PhoneNumberJM.pdb
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\SimpleConsoleApps\PhoneNumberJM\obj\Debug\PhoneNumberJM.csprojResolveAssemblyReference.cache
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\SimpleConsoleApps\PhoneNumberJM\obj\Debug\PhoneNumberJM.csproj.CoreCompileInputs.cache
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\SimpleConsoleApps\PhoneNumberJM\obj\Debug\PhoneNumberJM.exe
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\SimpleConsoleApps\PhoneNumberJM\obj\Debug\PhoneNumberJM.pdb
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\Programming Exercises for Beginners\_SimpleConsoleApps\PhoneNumberJM\bin\Debug\PhoneNumberJM.exe.config
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\Programming Exercises for Beginners\_SimpleConsoleApps\PhoneNumberJM\bin\Debug\PhoneNumberJM.exe
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\Programming Exercises for Beginners\_SimpleConsoleApps\PhoneNumberJM\bin\Debug\PhoneNumberJM.pdb
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\Programming Exercises for Beginners\_SimpleConsoleApps\PhoneNumberJM\obj\Debug\PhoneNumberJM.csprojResolveAssemblyReference.cache
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\Programming Exercises for Beginners\_SimpleConsoleApps\PhoneNumberJM\obj\Debug\PhoneNumberJM.csproj.CoreCompileInputs.cache
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\Programming Exercises for Beginners\_SimpleConsoleApps\PhoneNumberJM\obj\Debug\PhoneNumberJM.exe
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\Programming Exercises for Beginners\_SimpleConsoleApps\PhoneNumberJM\obj\Debug\PhoneNumberJM.pdb

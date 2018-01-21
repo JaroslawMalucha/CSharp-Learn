@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<!-- This xml document holds the license information-->
+<!--
+ < = &lt;
+ > = &gt;
+ & = &amp;
+ ' = &quot;
+ " = &apos;
+-->
+<DriversLicense status="suspended">
+
+  <Number>12345</Number>
+  <FirstName>John</FirstName>
+  <LastName>Smith</LastName>
+  <!--DateOfBirth>12/23/1980</DateOfBirth-->
+  <DateOfBirth>12/23/1980</DateOfBirth>
+  <VehicleType>Car</VehicleType>
+  <DateOfIssue>11/06/2012</DateOfIssue>
+  
+  <![CDATA[
+  <DateOfIssue>11/06/2012</DateOfIssue>
+  can be used for samples of how to use, etc.
+  ]]>
+  
+  <!--For Citizens it is 4 years and for visa holders it is the visa expiry date-->
+  <ExpiryDate>11/06/2022</ExpiryDate>
+  <Photo locatiom="serverName/filename"/>
+
+  <Address>
+    <street>stevens drive</street>
+    <city>king of prussia</city>
+    <state>PA</state>
+    <country>USA</country>
+    <zipcode>125253</zipcode>
+  </Address>
+  
+  
+</DriversLicense>

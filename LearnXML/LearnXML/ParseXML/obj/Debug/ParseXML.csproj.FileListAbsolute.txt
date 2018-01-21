@@ -1,0 +1,12 @@
+D:\Jarek\Projects\VSProjects\CSharp\_JMproj\AutomationTool\ParseXML\bin\Debug\ParseXML.dll
+D:\Jarek\Projects\VSProjects\CSharp\_JMproj\AutomationTool\ParseXML\bin\Debug\ParseXML.pdb
+D:\Jarek\Projects\VSProjects\CSharp\_JMproj\AutomationTool\ParseXML\obj\Debug\ParseXML.csproj.CoreCompileInputs.cache
+D:\Jarek\Projects\VSProjects\CSharp\_JMproj\AutomationTool\ParseXML\obj\Debug\ParseXML.dll
+D:\Jarek\Projects\VSProjects\CSharp\_JMproj\AutomationTool\ParseXML\obj\Debug\ParseXML.pdb
+D:\Jarek\Projects\VSProjects\CSharp\_JMproj\AutomationTool\ParseXML\obj\Debug\ParseXML.csprojResolveAssemblyReference.cache
+D:\Jarek\Projects\CSharp\_JMproj\AutomationTool\ParseXML\bin\Debug\ParseXML.dll
+D:\Jarek\Projects\CSharp\_JMproj\AutomationTool\ParseXML\bin\Debug\ParseXML.pdb
+D:\Jarek\Projects\CSharp\_JMproj\AutomationTool\ParseXML\obj\Debug\ParseXML.csprojResolveAssemblyReference.cache
+D:\Jarek\Projects\CSharp\_JMproj\AutomationTool\ParseXML\obj\Debug\ParseXML.csproj.CoreCompileInputs.cache
+D:\Jarek\Projects\CSharp\_JMproj\AutomationTool\ParseXML\obj\Debug\ParseXML.dll
+D:\Jarek\Projects\CSharp\_JMproj\AutomationTool\ParseXML\obj\Debug\ParseXML.pdb

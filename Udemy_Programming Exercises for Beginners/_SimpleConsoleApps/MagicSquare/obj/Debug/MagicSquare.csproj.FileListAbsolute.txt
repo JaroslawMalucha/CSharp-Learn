@@ -1,0 +1,7 @@
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\Programming Exercises for Beginners\_SimpleConsoleApps\MagicSquare\bin\Debug\MagicSquare.exe.config
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\Programming Exercises for Beginners\_SimpleConsoleApps\MagicSquare\bin\Debug\MagicSquare.exe
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\Programming Exercises for Beginners\_SimpleConsoleApps\MagicSquare\bin\Debug\MagicSquare.pdb
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\Programming Exercises for Beginners\_SimpleConsoleApps\MagicSquare\obj\Debug\MagicSquare.csprojResolveAssemblyReference.cache
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\Programming Exercises for Beginners\_SimpleConsoleApps\MagicSquare\obj\Debug\MagicSquare.csproj.CoreCompileInputs.cache
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\Programming Exercises for Beginners\_SimpleConsoleApps\MagicSquare\obj\Debug\MagicSquare.exe
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\Programming Exercises for Beginners\_SimpleConsoleApps\MagicSquare\obj\Debug\MagicSquare.pdb

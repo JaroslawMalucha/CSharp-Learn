@@ -1,0 +1,10 @@
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyLoginForm\MyLoginForm\bin\Debug\MyLoginForm.exe.config
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyLoginForm\MyLoginForm\bin\Debug\MyLoginForm.exe
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyLoginForm\MyLoginForm\bin\Debug\MyLoginForm.pdb
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyLoginForm\MyLoginForm\obj\Debug\MyLoginForm.Form1.resources
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyLoginForm\MyLoginForm\obj\Debug\MyLoginForm.Form2.resources
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyLoginForm\MyLoginForm\obj\Debug\MyLoginForm.Properties.Resources.resources
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyLoginForm\MyLoginForm\obj\Debug\MyLoginForm.csproj.GenerateResource.Cache
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyLoginForm\MyLoginForm\obj\Debug\MyLoginForm.csproj.CoreCompileInputs.cache
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyLoginForm\MyLoginForm\obj\Debug\MyLoginForm.exe
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyLoginForm\MyLoginForm\obj\Debug\MyLoginForm.pdb

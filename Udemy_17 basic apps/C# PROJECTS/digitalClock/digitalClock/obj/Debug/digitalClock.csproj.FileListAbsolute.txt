@@ -1,0 +1,9 @@
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\digitalClock\digitalClock\bin\Debug\digitalClock.exe.config
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\digitalClock\digitalClock\bin\Debug\digitalClock.exe
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\digitalClock\digitalClock\bin\Debug\digitalClock.pdb
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\digitalClock\digitalClock\obj\Debug\digitalClock.csprojResolveAssemblyReference.cache
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\digitalClock\digitalClock\obj\Debug\digitalClock.Properties.Resources.resources
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\digitalClock\digitalClock\obj\Debug\digitalClock.csproj.GenerateResource.Cache
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\digitalClock\digitalClock\obj\Debug\digitalClock.exe
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\digitalClock\digitalClock\obj\Debug\digitalClock.pdb
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\digitalClock\digitalClock\obj\Debug\digitalClock.clock.resources

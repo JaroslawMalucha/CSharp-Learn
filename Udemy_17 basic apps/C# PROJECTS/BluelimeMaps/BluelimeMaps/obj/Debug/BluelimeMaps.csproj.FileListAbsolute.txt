@@ -1,0 +1,9 @@
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\BluelimeMaps\BluelimeMaps\bin\Debug\BluelimeMaps.exe.config
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\BluelimeMaps\BluelimeMaps\bin\Debug\BluelimeMaps.exe
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\BluelimeMaps\BluelimeMaps\bin\Debug\BluelimeMaps.pdb
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\BluelimeMaps\BluelimeMaps\obj\Debug\BluelimeMaps.csprojResolveAssemblyReference.cache
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\BluelimeMaps\BluelimeMaps\obj\Debug\BluelimeMaps.frm.resources
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\BluelimeMaps\BluelimeMaps\obj\Debug\BluelimeMaps.Properties.Resources.resources
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\BluelimeMaps\BluelimeMaps\obj\Debug\BluelimeMaps.csproj.GenerateResource.Cache
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\BluelimeMaps\BluelimeMaps\obj\Debug\BluelimeMaps.exe
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\BluelimeMaps\BluelimeMaps\obj\Debug\BluelimeMaps.pdb

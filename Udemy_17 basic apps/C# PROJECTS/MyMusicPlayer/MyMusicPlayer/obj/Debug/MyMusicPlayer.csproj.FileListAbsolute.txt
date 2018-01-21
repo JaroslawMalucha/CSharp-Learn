@@ -1,0 +1,14 @@
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\MyMusicPlayer\MyMusicPlayer\bin\Debug\MyMusicPlayer.exe.config
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\MyMusicPlayer\MyMusicPlayer\bin\Debug\MyMusicPlayer.exe
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\MyMusicPlayer\MyMusicPlayer\bin\Debug\MyMusicPlayer.pdb
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\MyMusicPlayer\MyMusicPlayer\bin\Debug\Interop.WMPLib.dll
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\MyMusicPlayer\MyMusicPlayer\bin\Debug\AxInterop.WMPLib.dll
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\MyMusicPlayer\MyMusicPlayer\obj\Debug\MyMusicPlayer.csprojResolveAssemblyReference.cache
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\MyMusicPlayer\MyMusicPlayer\obj\Debug\Interop.WMPLib.dll
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\MyMusicPlayer\MyMusicPlayer\obj\Debug\AxInterop.WMPLib.dll
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\MyMusicPlayer\MyMusicPlayer\obj\Debug\MyMusicPlayer.csproj.ResolveComReference.cache
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\MyMusicPlayer\MyMusicPlayer\obj\Debug\MyMusicPlayer.Form1.resources
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\MyMusicPlayer\MyMusicPlayer\obj\Debug\MyMusicPlayer.Properties.Resources.resources
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\MyMusicPlayer\MyMusicPlayer\obj\Debug\MyMusicPlayer.csproj.GenerateResource.Cache
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\MyMusicPlayer\MyMusicPlayer\obj\Debug\MyMusicPlayer.exe
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\MyMusicPlayer\MyMusicPlayer\obj\Debug\MyMusicPlayer.pdb

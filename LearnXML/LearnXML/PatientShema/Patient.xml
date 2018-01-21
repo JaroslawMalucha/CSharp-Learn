@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patient xmlns ="http://tempuri.org/Patient.xsd" id="214">
+  <name>John</name>
+  <age>23</age>
+  <!--<email>john@mail.com</email>-->
+  <gender>M</gender>
+  <phone>1561545316</phone>
+  <phone>1561545316</phone>
+  <phone>1561545316</phone>
+  <paymentType>
+    <insurance>
+      <limit>10000</limit>
+      <provider>Blue Cross</provider>
+    </insurance>
+  </paymentType>
+</Patient>

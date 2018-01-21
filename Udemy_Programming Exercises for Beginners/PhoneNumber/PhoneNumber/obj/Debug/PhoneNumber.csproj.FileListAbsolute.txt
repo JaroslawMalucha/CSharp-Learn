@@ -1,0 +1,6 @@
+c:\users\pavol\onedrive\documents\visual studio 2015\Projects\PhoneNumber\PhoneNumber\bin\Debug\PhoneNumber.exe.config
+c:\users\pavol\onedrive\documents\visual studio 2015\Projects\PhoneNumber\PhoneNumber\bin\Debug\PhoneNumber.exe
+c:\users\pavol\onedrive\documents\visual studio 2015\Projects\PhoneNumber\PhoneNumber\bin\Debug\PhoneNumber.pdb
+c:\users\pavol\onedrive\documents\visual studio 2015\Projects\PhoneNumber\PhoneNumber\obj\Debug\PhoneNumber.csprojResolveAssemblyReference.cache
+c:\users\pavol\onedrive\documents\visual studio 2015\Projects\PhoneNumber\PhoneNumber\obj\Debug\PhoneNumber.exe
+c:\users\pavol\onedrive\documents\visual studio 2015\Projects\PhoneNumber\PhoneNumber\obj\Debug\PhoneNumber.pdb

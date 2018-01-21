@@ -1,0 +1,10 @@
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyPingPong\MyPingPong\bin\Debug\MyPingPong.exe.config
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyPingPong\MyPingPong\bin\Debug\MyPingPong.exe
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyPingPong\MyPingPong\bin\Debug\MyPingPong.pdb
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyPingPong\MyPingPong\obj\Debug\MyPingPong.csprojResolveAssemblyReference.cache
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyPingPong\MyPingPong\obj\Debug\MyPingPong.frmPingPong.resources
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyPingPong\MyPingPong\obj\Debug\MyPingPong.Properties.Resources.resources
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyPingPong\MyPingPong\obj\Debug\MyPingPong.csproj.GenerateResource.Cache
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyPingPong\MyPingPong\obj\Debug\MyPingPong.csproj.CoreCompileInputs.cache
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyPingPong\MyPingPong\obj\Debug\MyPingPong.exe
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyPingPong\MyPingPong\obj\Debug\MyPingPong.pdb

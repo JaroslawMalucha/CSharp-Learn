@@ -1,0 +1,9 @@
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyCurrencyConverter\MyCurrencyConverter\bin\Debug\MyCurrencyConverter.exe.config
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyCurrencyConverter\MyCurrencyConverter\bin\Debug\MyCurrencyConverter.exe
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyCurrencyConverter\MyCurrencyConverter\bin\Debug\MyCurrencyConverter.pdb
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyCurrencyConverter\MyCurrencyConverter\obj\Debug\MyCurrencyConverter.Properties.Resources.resources
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyCurrencyConverter\MyCurrencyConverter\obj\Debug\MyCurrencyConverter.csproj.GenerateResource.Cache
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyCurrencyConverter\MyCurrencyConverter\obj\Debug\MyCurrencyConverter.csproj.CoreCompileInputs.cache
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyCurrencyConverter\MyCurrencyConverter\obj\Debug\MyCurrencyConverter.exe
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyCurrencyConverter\MyCurrencyConverter\obj\Debug\MyCurrencyConverter.pdb
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyCurrencyConverter\MyCurrencyConverter\obj\Debug\MyCurrencyConverter.frmCurrencyConverter.resources

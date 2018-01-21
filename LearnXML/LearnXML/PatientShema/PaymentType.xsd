@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="PaymentType"
+    targetNamespace="http://tempuri.org/Patient.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/Patient.xsd"
+    xmlns:mstns="http://tempuri.org/Patient.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+  <xs:complexType name="PaymentType">
+    <xs:choice>
+      <!--at least one element must be present-->
+      <xs:element name="cash" type="xs:decimal"/>
+      <xs:element name="insurance" type="mstns:Insurance"/>
+    </xs:choice>
+  </xs:complexType>
+
+  <xs:complexType name="Insurance">
+    <xs:all>
+      <!--all must be present, in any order-->
+      <xs:element name="provider" type="xs:string"/>
+      <xs:element name="limit" type="xs:decimal"/>
+    </xs:all>
+  </xs:complexType>
+  
+</xs:schema>

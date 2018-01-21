@@ -1,0 +1,9 @@
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\myPaint\myPaint\bin\Debug\myPaint.exe.config
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\myPaint\myPaint\bin\Debug\myPaint.exe
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\myPaint\myPaint\bin\Debug\myPaint.pdb
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\myPaint\myPaint\obj\Debug\myPaint.csprojResolveAssemblyReference.cache
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\myPaint\myPaint\obj\Debug\myPaint.Form1.resources
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\myPaint\myPaint\obj\Debug\myPaint.Properties.Resources.resources
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\myPaint\myPaint\obj\Debug\myPaint.csproj.GenerateResource.Cache
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\myPaint\myPaint\obj\Debug\myPaint.exe
+c:\users\bluelime learning so\documents\visual studio 2015\Projects\myPaint\myPaint\obj\Debug\myPaint.pdb

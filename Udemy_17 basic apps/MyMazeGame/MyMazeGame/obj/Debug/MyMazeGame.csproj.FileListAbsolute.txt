@@ -1,0 +1,9 @@
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyMazeGame\MyMazeGame\bin\Debug\MyMazeGame.exe.config
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyMazeGame\MyMazeGame\bin\Debug\MyMazeGame.exe
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyMazeGame\MyMazeGame\bin\Debug\MyMazeGame.pdb
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyMazeGame\MyMazeGame\obj\Debug\MyMazeGame.Form1.resources
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyMazeGame\MyMazeGame\obj\Debug\MyMazeGame.Properties.Resources.resources
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyMazeGame\MyMazeGame\obj\Debug\MyMazeGame.csproj.GenerateResource.Cache
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyMazeGame\MyMazeGame\obj\Debug\MyMazeGame.csproj.CoreCompileInputs.cache
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyMazeGame\MyMazeGame\obj\Debug\MyMazeGame.exe
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyMazeGame\MyMazeGame\obj\Debug\MyMazeGame.pdb

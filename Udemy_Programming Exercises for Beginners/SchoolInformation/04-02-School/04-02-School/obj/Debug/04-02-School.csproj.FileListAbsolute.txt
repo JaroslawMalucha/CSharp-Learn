@@ -1,0 +1,6 @@
+c:\users\pavol\onedrive\documents\visual studio 2015\Projects\Doyle\04-02-School\04-02-School\bin\Debug\04-02-School.exe.config
+c:\users\pavol\onedrive\documents\visual studio 2015\Projects\Doyle\04-02-School\04-02-School\bin\Debug\04-02-School.exe
+c:\users\pavol\onedrive\documents\visual studio 2015\Projects\Doyle\04-02-School\04-02-School\bin\Debug\04-02-School.pdb
+c:\users\pavol\onedrive\documents\visual studio 2015\Projects\Doyle\04-02-School\04-02-School\obj\Debug\04-02-School.csprojResolveAssemblyReference.cache
+c:\users\pavol\onedrive\documents\visual studio 2015\Projects\Doyle\04-02-School\04-02-School\obj\Debug\04-02-School.exe
+c:\users\pavol\onedrive\documents\visual studio 2015\Projects\Doyle\04-02-School\04-02-School\obj\Debug\04-02-School.pdb

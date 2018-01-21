@@ -1,0 +1,11 @@
+D:\Jarek\Projects\CSharp\_JMproj\MyNotepad\MyNotepad\bin\Debug\MyNotepad.exe.config
+D:\Jarek\Projects\CSharp\_JMproj\MyNotepad\MyNotepad\bin\Debug\MyNotepad.exe
+D:\Jarek\Projects\CSharp\_JMproj\MyNotepad\MyNotepad\bin\Debug\MyNotepad.pdb
+D:\Jarek\Projects\CSharp\_JMproj\MyNotepad\MyNotepad\obj\Debug\MyNotepad.frmMain.resources
+D:\Jarek\Projects\CSharp\_JMproj\MyNotepad\MyNotepad\obj\Debug\MyNotepad.Properties.Resources.resources
+D:\Jarek\Projects\CSharp\_JMproj\MyNotepad\MyNotepad\obj\Debug\MyNotepad.csproj.GenerateResource.Cache
+D:\Jarek\Projects\CSharp\_JMproj\MyNotepad\MyNotepad\obj\Debug\MyNotepad.csproj.CoreCompileInputs.cache
+D:\Jarek\Projects\CSharp\_JMproj\MyNotepad\MyNotepad\obj\Debug\MyNotepad.exe
+D:\Jarek\Projects\CSharp\_JMproj\MyNotepad\MyNotepad\obj\Debug\MyNotepad.pdb
+D:\Jarek\Projects\CSharp\_JMproj\MyNotepad\MyNotepad\obj\Debug\MyNotepad.csprojResolveAssemblyReference.cache
+D:\Jarek\Projects\CSharp\_JMproj\MyNotepad\MyNotepad\obj\Debug\MyNotepad.frmFind.resources

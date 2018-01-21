@@ -1,0 +1,6 @@
+D:\Jarek\Projects\CSharp\_JMproj\AutomationTool\XMLdriversLicense\bin\Debug\XMLdriversLicense.dll
+D:\Jarek\Projects\CSharp\_JMproj\AutomationTool\XMLdriversLicense\bin\Debug\XMLdriversLicense.pdb
+D:\Jarek\Projects\CSharp\_JMproj\AutomationTool\XMLdriversLicense\obj\Debug\XMLdriversLicense.csprojResolveAssemblyReference.cache
+D:\Jarek\Projects\CSharp\_JMproj\AutomationTool\XMLdriversLicense\obj\Debug\XMLdriversLicense.csproj.CoreCompileInputs.cache
+D:\Jarek\Projects\CSharp\_JMproj\AutomationTool\XMLdriversLicense\obj\Debug\XMLdriversLicense.dll
+D:\Jarek\Projects\CSharp\_JMproj\AutomationTool\XMLdriversLicense\obj\Debug\XMLdriversLicense.pdb

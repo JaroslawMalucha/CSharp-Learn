@@ -1,0 +1,23 @@
+D:\Jarek\Projects\VSProjects\CSharp\_JMproj\basics\CSharpIntermediate\bin\Debug\CSharpIntermediate.dll
+D:\Jarek\Projects\VSProjects\CSharp\_JMproj\basics\CSharpIntermediate\bin\Debug\CSharpIntermediate.pdb
+D:\Jarek\Projects\VSProjects\CSharp\_JMproj\basics\CSharpIntermediate\obj\Debug\CSharpIntermediate.csprojResolveAssemblyReference.cache
+D:\Jarek\Projects\VSProjects\CSharp\_JMproj\basics\CSharpIntermediate\obj\Debug\CSharpIntermediate.csproj.CoreCompileInputs.cache
+D:\Jarek\Projects\VSProjects\CSharp\_JMproj\basics\CSharpIntermediate\obj\Debug\CSharpIntermediate.dll
+D:\Jarek\Projects\VSProjects\CSharp\_JMproj\basics\CSharpIntermediate\obj\Debug\CSharpIntermediate.pdb
+D:\Jarek\Projects\VSProjects\CSharp\_JMproj\basics\CSharpKnowledge\CSharpIntermediate\bin\Debug\CSharpIntermediate.dll
+D:\Jarek\Projects\VSProjects\CSharp\_JMproj\basics\CSharpKnowledge\CSharpIntermediate\bin\Debug\CSharpIntermediate.pdb
+D:\Jarek\Projects\VSProjects\CSharp\_JMproj\basics\CSharpKnowledge\CSharpIntermediate\obj\Debug\CSharpIntermediate.csprojResolveAssemblyReference.cache
+D:\Jarek\Projects\VSProjects\CSharp\_JMproj\basics\CSharpKnowledge\CSharpIntermediate\obj\Debug\CSharpIntermediate.csproj.CoreCompileInputs.cache
+D:\Jarek\Projects\VSProjects\CSharp\_JMproj\basics\CSharpKnowledge\CSharpIntermediate\obj\Debug\CSharpIntermediate.dll
+D:\Jarek\Projects\VSProjects\CSharp\_JMproj\basics\CSharpKnowledge\CSharpIntermediate\obj\Debug\CSharpIntermediate.pdb
+C:\Users\UJXM9U9\Desktop\Projects\Projects - AB\C#\csharpknowledge\CSharpIntermediate\bin\Debug\CSharpIntermediate.dll
+C:\Users\UJXM9U9\Desktop\Projects\Projects - AB\C#\csharpknowledge\CSharpIntermediate\bin\Debug\CSharpIntermediate.pdb
+C:\Users\UJXM9U9\Desktop\Projects\Projects - AB\C#\csharpknowledge\CSharpIntermediate\obj\Debug\CSharpIntermediate.csprojResolveAssemblyReference.cache
+C:\Users\UJXM9U9\Desktop\Projects\Projects - AB\C#\csharpknowledge\CSharpIntermediate\obj\Debug\CSharpIntermediate.csproj.CoreCompileInputs.cache
+C:\Users\UJXM9U9\Desktop\Projects\Projects - AB\C#\csharpknowledge\CSharpIntermediate\obj\Debug\CSharpIntermediate.dll
+C:\Users\UJXM9U9\Desktop\Projects\Projects - AB\C#\csharpknowledge\CSharpIntermediate\obj\Debug\CSharpIntermediate.pdb
+D:\Jarek\Projects\VSProjects\CSharp\_JMproj\CSharpKnowledge\CSharpIntermediate\bin\Debug\CSharpIntermediate.dll
+D:\Jarek\Projects\VSProjects\CSharp\_JMproj\CSharpKnowledge\CSharpIntermediate\bin\Debug\CSharpIntermediate.pdb
+D:\Jarek\Projects\VSProjects\CSharp\_JMproj\CSharpKnowledge\CSharpIntermediate\obj\Debug\CSharpIntermediate.csproj.CoreCompileInputs.cache
+D:\Jarek\Projects\VSProjects\CSharp\_JMproj\CSharpKnowledge\CSharpIntermediate\obj\Debug\CSharpIntermediate.dll
+D:\Jarek\Projects\VSProjects\CSharp\_JMproj\CSharpKnowledge\CSharpIntermediate\obj\Debug\CSharpIntermediate.pdb

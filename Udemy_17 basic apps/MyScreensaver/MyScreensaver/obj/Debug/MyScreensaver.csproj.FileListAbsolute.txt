@@ -1,0 +1,10 @@
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyScreensaver\MyScreensaver\bin\Debug\MyScreensaver.exe.config
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyScreensaver\MyScreensaver\bin\Debug\MyScreensaver.exe
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyScreensaver\MyScreensaver\bin\Debug\MyScreensaver.pdb
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyScreensaver\MyScreensaver\obj\Debug\MyScreensaver.frmScreensaver.resources
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyScreensaver\MyScreensaver\obj\Debug\MyScreensaver.Properties.Resources.resources
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyScreensaver\MyScreensaver\obj\Debug\MyScreensaver.csproj.GenerateResource.Cache
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyScreensaver\MyScreensaver\obj\Debug\MyScreensaver.csproj.CoreCompileInputs.cache
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyScreensaver\MyScreensaver\obj\Debug\MyScreensaver.exe
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyScreensaver\MyScreensaver\obj\Debug\MyScreensaver.pdb
+D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyScreensaver\MyScreensaver\obj\Debug\MyScreensaver.csprojResolveAssemblyReference.cache
