@@ -1,6 +1,0 @@
-c:\users\pavol\onedrive\documents\visual studio 2015\Projects\Doyle\6-1-RandomNumbers\6-1-RandomNumbers\bin\Debug\6-1-RandomNumbers.exe.config
-c:\users\pavol\onedrive\documents\visual studio 2015\Projects\Doyle\6-1-RandomNumbers\6-1-RandomNumbers\bin\Debug\6-1-RandomNumbers.exe
-c:\users\pavol\onedrive\documents\visual studio 2015\Projects\Doyle\6-1-RandomNumbers\6-1-RandomNumbers\bin\Debug\6-1-RandomNumbers.pdb
-c:\users\pavol\onedrive\documents\visual studio 2015\Projects\Doyle\6-1-RandomNumbers\6-1-RandomNumbers\obj\Debug\6-1-RandomNumbers.csprojResolveAssemblyReference.cache
-c:\users\pavol\onedrive\documents\visual studio 2015\Projects\Doyle\6-1-RandomNumbers\6-1-RandomNumbers\obj\Debug\6-1-RandomNumbers.exe
-c:\users\pavol\onedrive\documents\visual studio 2015\Projects\Doyle\6-1-RandomNumbers\6-1-RandomNumbers\obj\Debug\6-1-RandomNumbers.pdb

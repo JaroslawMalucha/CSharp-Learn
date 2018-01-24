@@ -1,6 +1,0 @@
-c:\users\pavol\onedrive\documents\visual studio 2015\Projects\RandomNumbersCalculations\RandomNumbersCalculations\bin\Debug\RandomNumbersCalculations.exe.config
-c:\users\pavol\onedrive\documents\visual studio 2015\Projects\RandomNumbersCalculations\RandomNumbersCalculations\bin\Debug\RandomNumbersCalculations.exe
-c:\users\pavol\onedrive\documents\visual studio 2015\Projects\RandomNumbersCalculations\RandomNumbersCalculations\bin\Debug\RandomNumbersCalculations.pdb
-c:\users\pavol\onedrive\documents\visual studio 2015\Projects\RandomNumbersCalculations\RandomNumbersCalculations\obj\Debug\RandomNumbersCalculations.csprojResolveAssemblyReference.cache
-c:\users\pavol\onedrive\documents\visual studio 2015\Projects\RandomNumbersCalculations\RandomNumbersCalculations\obj\Debug\RandomNumbersCalculations.exe
-c:\users\pavol\onedrive\documents\visual studio 2015\Projects\RandomNumbersCalculations\RandomNumbersCalculations\obj\Debug\RandomNumbersCalculations.pdb

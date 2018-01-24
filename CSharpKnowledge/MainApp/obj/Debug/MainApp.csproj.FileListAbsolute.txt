@@ -12,3 +12,17 @@ D:\Jarek\Projects\VSProjects\CSharp\_JMproj\CSharpKnowledge\MainApp\obj\Debug\Ma
 D:\Jarek\Projects\VSProjects\CSharp\_JMproj\CSharpKnowledge\MainApp\bin\Debug\CSharpFundamentals.exe
 D:\Jarek\Projects\VSProjects\CSharp\_JMproj\CSharpKnowledge\MainApp\bin\Debug\CSharpFundamentals.pdb
 D:\Jarek\Projects\VSProjects\CSharp\_JMproj\CSharpKnowledge\MainApp\bin\Debug\CSharpFundamentals.exe.config
+D:\Jarek\Projects\CSharp\Learn\CSharp-Learn\CSharpKnowledge\MainApp\bin\Debug\MainApp.exe.config
+D:\Jarek\Projects\CSharp\Learn\CSharp-Learn\CSharpKnowledge\MainApp\bin\Debug\MainApp.exe
+D:\Jarek\Projects\CSharp\Learn\CSharp-Learn\CSharpKnowledge\MainApp\bin\Debug\MainApp.pdb
+D:\Jarek\Projects\CSharp\Learn\CSharp-Learn\CSharpKnowledge\MainApp\bin\Debug\CSharpAdvaced.dll
+D:\Jarek\Projects\CSharp\Learn\CSharp-Learn\CSharpKnowledge\MainApp\bin\Debug\CSharpFundamentals.exe
+D:\Jarek\Projects\CSharp\Learn\CSharp-Learn\CSharpKnowledge\MainApp\bin\Debug\CSharpIntermediate.dll
+D:\Jarek\Projects\CSharp\Learn\CSharp-Learn\CSharpKnowledge\MainApp\bin\Debug\CSharpAdvaced.pdb
+D:\Jarek\Projects\CSharp\Learn\CSharp-Learn\CSharpKnowledge\MainApp\bin\Debug\CSharpFundamentals.pdb
+D:\Jarek\Projects\CSharp\Learn\CSharp-Learn\CSharpKnowledge\MainApp\bin\Debug\CSharpFundamentals.exe.config
+D:\Jarek\Projects\CSharp\Learn\CSharp-Learn\CSharpKnowledge\MainApp\bin\Debug\CSharpIntermediate.pdb
+D:\Jarek\Projects\CSharp\Learn\CSharp-Learn\CSharpKnowledge\MainApp\obj\Debug\MainApp.csprojResolveAssemblyReference.cache
+D:\Jarek\Projects\CSharp\Learn\CSharp-Learn\CSharpKnowledge\MainApp\obj\Debug\MainApp.csproj.CoreCompileInputs.cache
+D:\Jarek\Projects\CSharp\Learn\CSharp-Learn\CSharpKnowledge\MainApp\obj\Debug\MainApp.exe
+D:\Jarek\Projects\CSharp\Learn\CSharp-Learn\CSharpKnowledge\MainApp\obj\Debug\MainApp.pdb

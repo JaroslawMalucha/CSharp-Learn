@@ -54,3 +54,14 @@ D:\Jarek\Projects\VSProjects\CSharp\_JMproj\CSharpKnowledge\CSharpFundamentals\o
 D:\Jarek\Projects\VSProjects\CSharp\_JMproj\CSharpKnowledge\CSharpFundamentals\obj\Debug\CSharpFundamentals.csproj.CoreCompileInputs.cache
 D:\Jarek\Projects\VSProjects\CSharp\_JMproj\CSharpKnowledge\CSharpFundamentals\obj\Debug\CSharpFundamentals.exe
 D:\Jarek\Projects\VSProjects\CSharp\_JMproj\CSharpKnowledge\CSharpFundamentals\obj\Debug\CSharpFundamentals.pdb
+D:\Jarek\Projects\CSharp\Learn\CSharp-Learn\CSharpKnowledge\CSharpFundamentals\bin\Debug\CSharpFundamentals.exe.config
+D:\Jarek\Projects\CSharp\Learn\CSharp-Learn\CSharpKnowledge\CSharpFundamentals\bin\Debug\CSharpFundamentals.exe
+D:\Jarek\Projects\CSharp\Learn\CSharp-Learn\CSharpKnowledge\CSharpFundamentals\bin\Debug\CSharpFundamentals.pdb
+D:\Jarek\Projects\CSharp\Learn\CSharp-Learn\CSharpKnowledge\CSharpFundamentals\bin\Debug\CSharpAdvaced.dll
+D:\Jarek\Projects\CSharp\Learn\CSharp-Learn\CSharpKnowledge\CSharpFundamentals\bin\Debug\CSharpIntermediate.dll
+D:\Jarek\Projects\CSharp\Learn\CSharp-Learn\CSharpKnowledge\CSharpFundamentals\bin\Debug\CSharpAdvaced.pdb
+D:\Jarek\Projects\CSharp\Learn\CSharp-Learn\CSharpKnowledge\CSharpFundamentals\bin\Debug\CSharpIntermediate.pdb
+D:\Jarek\Projects\CSharp\Learn\CSharp-Learn\CSharpKnowledge\CSharpFundamentals\obj\Debug\CSharpFundamentals.csprojResolveAssemblyReference.cache
+D:\Jarek\Projects\CSharp\Learn\CSharp-Learn\CSharpKnowledge\CSharpFundamentals\obj\Debug\CSharpFundamentals.csproj.CoreCompileInputs.cache
+D:\Jarek\Projects\CSharp\Learn\CSharp-Learn\CSharpKnowledge\CSharpFundamentals\obj\Debug\CSharpFundamentals.exe
+D:\Jarek\Projects\CSharp\Learn\CSharp-Learn\CSharpKnowledge\CSharpFundamentals\obj\Debug\CSharpFundamentals.pdb

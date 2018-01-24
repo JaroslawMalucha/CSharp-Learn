@@ -12,21 +12,22 @@ namespace CSharpFundamentals
         //[STAThread] // needed to initialize a WPF UI project from this thread
         public static void Main(string[] args)
         {
-            Basics.Run();
-            Person.testPerson();
-            Calculator.TestCalculator();
-            Arrays.ArraysBasics();
-            Lists.testList();
-            Strings.StringsBasics();
-            Enumerations.testEnumerations();
-            Types.testTypes();
-            Conditionals.testConditionals();
-            Loops.testLoops();
-            Random.testRandom();
-            LoopsExercise.testLoops();
-            DatesAndTime.testDates();
-            WorkingWithText.testStrings();
-            WorkingWithFiles.testFiles();
+            //Basics.Run();
+            //Person.testPerson();
+            //Calculator.TestCalculator();
+            //Arrays.ArraysBasics();
+            //Lists.testList();
+            //Strings.StringsBasics();
+            //Enumerations.testEnumerations();
+            //Types.testTypes();
+            //Conditionals.testConditionals();
+            //Loops.Loops.testLoops();
+            Loops.Loops2.testLoops();
+            //Random.testRandom();
+            //LoopsExercise.testLoops();
+            //DatesAndTime.testDates();
+            //WorkingWithText.testStrings();
+            //WorkingWithFiles.testFiles();
         }
     }
 }

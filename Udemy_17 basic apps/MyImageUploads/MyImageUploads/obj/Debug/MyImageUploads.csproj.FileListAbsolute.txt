@@ -1,9 +1,0 @@
-D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyImageUploads\MyImageUploads\bin\Debug\MyImageUploads.exe.config
-D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyImageUploads\MyImageUploads\bin\Debug\MyImageUploads.exe
-D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyImageUploads\MyImageUploads\bin\Debug\MyImageUploads.pdb
-D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyImageUploads\MyImageUploads\obj\Debug\MyImageUploads.Form1.resources
-D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyImageUploads\MyImageUploads\obj\Debug\MyImageUploads.Properties.Resources.resources
-D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyImageUploads\MyImageUploads\obj\Debug\MyImageUploads.csproj.GenerateResource.Cache
-D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyImageUploads\MyImageUploads\obj\Debug\MyImageUploads.csproj.CoreCompileInputs.cache
-D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyImageUploads\MyImageUploads\obj\Debug\MyImageUploads.exe
-D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyImageUploads\MyImageUploads\obj\Debug\MyImageUploads.pdb

@@ -1,6 +1,0 @@
-c:\users\pavol\onedrive\documents\visual studio 2015\Projects\Doyle-6-7-MultiplicationTable\Doyle-6-7-MultiplicationTable\bin\Debug\Doyle-6-7-MultiplicationTable.exe.config
-c:\users\pavol\onedrive\documents\visual studio 2015\Projects\Doyle-6-7-MultiplicationTable\Doyle-6-7-MultiplicationTable\bin\Debug\Doyle-6-7-MultiplicationTable.exe
-c:\users\pavol\onedrive\documents\visual studio 2015\Projects\Doyle-6-7-MultiplicationTable\Doyle-6-7-MultiplicationTable\bin\Debug\Doyle-6-7-MultiplicationTable.pdb
-c:\users\pavol\onedrive\documents\visual studio 2015\Projects\Doyle-6-7-MultiplicationTable\Doyle-6-7-MultiplicationTable\obj\Debug\Doyle-6-7-MultiplicationTable.csprojResolveAssemblyReference.cache
-c:\users\pavol\onedrive\documents\visual studio 2015\Projects\Doyle-6-7-MultiplicationTable\Doyle-6-7-MultiplicationTable\obj\Debug\Doyle-6-7-MultiplicationTable.exe
-c:\users\pavol\onedrive\documents\visual studio 2015\Projects\Doyle-6-7-MultiplicationTable\Doyle-6-7-MultiplicationTable\obj\Debug\Doyle-6-7-MultiplicationTable.pdb

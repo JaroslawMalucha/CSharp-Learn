@@ -1,6 +1,0 @@
-c:\users\pavol\onedrive\documents\visual studio 2015\Projects\Doyle\4-1-StudentInfoOOP\4-1-StudentInfoOOP\bin\Debug\4-1-StudentInfoOOP.exe.config
-c:\users\pavol\onedrive\documents\visual studio 2015\Projects\Doyle\4-1-StudentInfoOOP\4-1-StudentInfoOOP\bin\Debug\4-1-StudentInfoOOP.exe
-c:\users\pavol\onedrive\documents\visual studio 2015\Projects\Doyle\4-1-StudentInfoOOP\4-1-StudentInfoOOP\bin\Debug\4-1-StudentInfoOOP.pdb
-c:\users\pavol\onedrive\documents\visual studio 2015\Projects\Doyle\4-1-StudentInfoOOP\4-1-StudentInfoOOP\obj\Debug\4-1-StudentInfoOOP.csprojResolveAssemblyReference.cache
-c:\users\pavol\onedrive\documents\visual studio 2015\Projects\Doyle\4-1-StudentInfoOOP\4-1-StudentInfoOOP\obj\Debug\4-1-StudentInfoOOP.exe
-c:\users\pavol\onedrive\documents\visual studio 2015\Projects\Doyle\4-1-StudentInfoOOP\4-1-StudentInfoOOP\obj\Debug\4-1-StudentInfoOOP.pdb

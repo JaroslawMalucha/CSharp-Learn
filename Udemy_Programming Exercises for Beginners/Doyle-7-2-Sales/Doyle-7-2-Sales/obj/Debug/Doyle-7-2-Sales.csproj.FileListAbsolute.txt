@@ -1,5 +1,0 @@
-c:\users\pavol\onedrive\documents\visual studio 2015\Projects\Doyle-7-2-Sales\Doyle-7-2-Sales\bin\Debug\Doyle-7-2-Sales.exe.config
-c:\users\pavol\onedrive\documents\visual studio 2015\Projects\Doyle-7-2-Sales\Doyle-7-2-Sales\bin\Debug\Doyle-7-2-Sales.exe
-c:\users\pavol\onedrive\documents\visual studio 2015\Projects\Doyle-7-2-Sales\Doyle-7-2-Sales\bin\Debug\Doyle-7-2-Sales.pdb
-c:\users\pavol\onedrive\documents\visual studio 2015\Projects\Doyle-7-2-Sales\Doyle-7-2-Sales\obj\Debug\Doyle-7-2-Sales.exe
-c:\users\pavol\onedrive\documents\visual studio 2015\Projects\Doyle-7-2-Sales\Doyle-7-2-Sales\obj\Debug\Doyle-7-2-Sales.pdb

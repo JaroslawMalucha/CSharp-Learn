@@ -1,9 +1,0 @@
-D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyPictureViewer\MyPictureViewer\bin\Debug\MyPictureViewer.exe.config
-D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyPictureViewer\MyPictureViewer\bin\Debug\MyPictureViewer.exe
-D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyPictureViewer\MyPictureViewer\bin\Debug\MyPictureViewer.pdb
-D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyPictureViewer\MyPictureViewer\obj\Debug\MyPictureViewer.Form1.resources
-D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyPictureViewer\MyPictureViewer\obj\Debug\MyPictureViewer.Properties.Resources.resources
-D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyPictureViewer\MyPictureViewer\obj\Debug\MyPictureViewer.csproj.GenerateResource.Cache
-D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyPictureViewer\MyPictureViewer\obj\Debug\MyPictureViewer.csproj.CoreCompileInputs.cache
-D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyPictureViewer\MyPictureViewer\obj\Debug\MyPictureViewer.exe
-D:\Jarek\Projects\CSharp\_JMproj\Udemy\MyPictureViewer\MyPictureViewer\obj\Debug\MyPictureViewer.pdb

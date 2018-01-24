@@ -66,6 +66,7 @@
     <Compile Include="IEnumerable\Cars.cs" />
     <Compile Include="Collections\Lists.cs" />
     <Compile Include="Loops\Loops.cs" />
+    <Compile Include="Loops\Loops2.cs" />
     <Compile Include="Loops\LoopsExercise.cs" />
     <Compile Include="Math\Calculator.cs" />
     <Compile Include="Conditionals\MoshConditionals.cs" />

@@ -1,6 +1,0 @@
-c:\users\pavol\onedrive\documents\visual studio 2015\Projects\Doyle-7-9-Chart\Doyle-7-9-Chart\bin\Debug\Doyle-7-9-Chart.exe.config
-c:\users\pavol\onedrive\documents\visual studio 2015\Projects\Doyle-7-9-Chart\Doyle-7-9-Chart\bin\Debug\Doyle-7-9-Chart.exe
-c:\users\pavol\onedrive\documents\visual studio 2015\Projects\Doyle-7-9-Chart\Doyle-7-9-Chart\bin\Debug\Doyle-7-9-Chart.pdb
-c:\users\pavol\onedrive\documents\visual studio 2015\Projects\Doyle-7-9-Chart\Doyle-7-9-Chart\obj\Debug\Doyle-7-9-Chart.csprojResolveAssemblyReference.cache
-c:\users\pavol\onedrive\documents\visual studio 2015\Projects\Doyle-7-9-Chart\Doyle-7-9-Chart\obj\Debug\Doyle-7-9-Chart.exe
-c:\users\pavol\onedrive\documents\visual studio 2015\Projects\Doyle-7-9-Chart\Doyle-7-9-Chart\obj\Debug\Doyle-7-9-Chart.pdb

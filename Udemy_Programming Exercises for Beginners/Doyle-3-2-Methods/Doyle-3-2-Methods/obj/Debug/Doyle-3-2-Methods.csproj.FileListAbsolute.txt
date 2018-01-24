@@ -1,6 +1,0 @@
-c:\users\pavol\onedrive\documents\visual studio 2015\Projects\Doyle-3-2-Methods\Doyle-3-2-Methods\bin\Debug\Doyle-3-2-Methods.exe.config
-c:\users\pavol\onedrive\documents\visual studio 2015\Projects\Doyle-3-2-Methods\Doyle-3-2-Methods\bin\Debug\Doyle-3-2-Methods.exe
-c:\users\pavol\onedrive\documents\visual studio 2015\Projects\Doyle-3-2-Methods\Doyle-3-2-Methods\bin\Debug\Doyle-3-2-Methods.pdb
-c:\users\pavol\onedrive\documents\visual studio 2015\Projects\Doyle-3-2-Methods\Doyle-3-2-Methods\obj\Debug\Doyle-3-2-Methods.csprojResolveAssemblyReference.cache
-c:\users\pavol\onedrive\documents\visual studio 2015\Projects\Doyle-3-2-Methods\Doyle-3-2-Methods\obj\Debug\Doyle-3-2-Methods.exe
-c:\users\pavol\onedrive\documents\visual studio 2015\Projects\Doyle-3-2-Methods\Doyle-3-2-Methods\obj\Debug\Doyle-3-2-Methods.pdb
