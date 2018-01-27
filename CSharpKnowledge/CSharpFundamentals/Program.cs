@@ -13,6 +13,7 @@ namespace CSharpFundamentals
         public static void Main(string[] args)
         {
             //Basics.Run();
+            DatesAndTime.testDates();
             //Person.testPerson();
             //Calculator.TestCalculator();
             //Arrays.ArraysBasics();
@@ -22,10 +23,9 @@ namespace CSharpFundamentals
             //Types.testTypes();
             //Conditionals.testConditionals();
             //Loops.Loops.testLoops();
-            Loops.Loops2.testLoops();
+            //Loops.Loops2.testLoops();
             //Random.testRandom();
             //LoopsExercise.testLoops();
-            //DatesAndTime.testDates();
             //WorkingWithText.testStrings();
             //WorkingWithFiles.testFiles();
         }

@@ -106,15 +106,14 @@ namespace CSharpFundamentals
 
 
             // INTEGRAL NUMBERS
-            byte b = 2 ^ 8 - 1; System.Byte b2 = 0; Console.WriteLine(b);     //255; //1byte //UN-SIGNED
-            sbyte sb = 2 ^ 7 - 1; System.SByte sb2 = 0; Console.WriteLine(b);     //127; //1byte // SIGNED
-            short s = 2 ^ 15 - 1; System.Int16 s2 = 0; Console.WriteLine(s);   //32767; //2bytes
-            ushort us = 2 ^ 16 - 1; System.UInt16 us2 = 0; Console.WriteLine(s);   //32767*2; //2bytes
-            int i = 2 ^ 31 - 1; System.Int32 i2 = 0; Console.WriteLine(i);    //2147483647 //4bytes // MOST USED
-            uint ui = 2 ^ 32 - 1; System.UInt32 ui2 = 0; Console.WriteLine(i);    //2147483647*2 //4bytes
-            long lng = 2 ^ 63 - 1; System.Int64 lng2 = 0; Console.WriteLine(lng); //9223372036854775807L //8bytes
-            ulong ulng = 2 ^ 64 - 1; System.UInt64 ulng2 = 0; Console.WriteLine(lng); //9223372036854775807L*2 //8bytes
-
+            byte b = 2 ^ 8 - 1; System.Byte b2 = Byte.MaxValue; Console.WriteLine(b);     //255; //1byte //UN-SIGNED
+            sbyte sb = 2 ^ 7 - 1; System.SByte sb2 = SByte.MaxValue; Console.WriteLine(b);     //127; //1byte // SIGNED
+            short s = 2 ^ 15 - 1; System.Int16 s2 = Int16.MaxValue; Console.WriteLine(s);   //32767; //2bytes
+            ushort us = 2 ^ 16 - 1; System.UInt16 us2 = UInt16.MaxValue; Console.WriteLine(s);   //32767*2; //2bytes
+            int i = 2 ^ 31 - 1; System.Int32 i2 = Int32.MaxValue; Console.WriteLine(i);    //2147483647 //4bytes // MOST USED
+            uint ui = 2 ^ 32 - 1; System.UInt32 ui2 = UInt32.MaxValue; Console.WriteLine(i);    //2147483647*2 //4bytes
+            long lng = 2 ^ 63 - 1; System.Int64 lng2 = Int64.MaxValue; Console.WriteLine(lng); //9223372036854775807L //8bytes
+            ulong ulng = 2 ^ 64 - 1; System.UInt64 ulng2 = UInt64.MaxValue; Console.WriteLine(lng); //9223372036854775807L*2 //8bytes
 
 
             // REAL NUMBERS - //C# compiler treats real numbers as double
@@ -122,6 +121,19 @@ namespace CSharpFundamentals
             f = 2.5f; System.Single f2 = 0; Console.WriteLine(f);
             double dbl = 4.9E-324; System.Double dbl2 = 0; Console.WriteLine(dbl);                                 //8bytes
             decimal dec = 0; System.Decimal dec2 = 0; Console.WriteLine(dec);  // (decimal) 7.9 * 10 ^ 28;                  //16bytes
+
+            //PRECICION COMPARISON
+            f = 1 / 3f; Console.WriteLine(f);
+            dbl = 1 / 3d; Console.WriteLine(dbl);
+            dec = 1 / 3m; Console.WriteLine(dec);
+
+            //FORCING A NUMERIC TYPE ON A LITERAL NUMBER USING [literal number suffixes]
+            ui = 0U;
+            ulng = 0UL;
+            lng = 0L;
+            f = 0.0f;
+            dbl = 0.0d;
+            dec = 0.0m;
 
             //CHARACTER
             char chr = 'A'; System.Char chr2 = 'B'; Console.WriteLine(chr);                            //2bytes Unicocde Character
@@ -155,7 +167,7 @@ namespace CSharpFundamentals
 
             }
 
-            //VAR
+            //VAR - assumes the type of content once during initialization
             var numer = 10.4f;
 
             // MIN and MAX VALUES of a TYPE
@@ -164,6 +176,16 @@ namespace CSharpFundamentals
 
             //CONSTANTS
             const float Pi = 3.15f; //Pi = 1; cant reassign
+
+            //DECLARING MULTIPLE VARIABLES
+            string aa, bb, cc, dd;
+
+            //CHECKING TYPE
+            Console.WriteLine(typeof(string).IsPrimitive);
+            Console.WriteLine(typeof(decimal).IsPrimitive);
+            Console.WriteLine(typeof(double).IsPrimitive);
+            Console.WriteLine(typeof(byte).IsPrimitive);
+
         }
 
         public static void TypeConversion()
@@ -172,9 +194,9 @@ namespace CSharpFundamentals
             // numeric litterals are treated as double when writeen with a period or as integer otherwise
             // all below rules apply
             double dbl = double.MaxValue; // its a double
-            byte b = 255;   // its a double auto-casted to a byte
+            byte b = 255;   // its an integer auto-casted to a byte
             int i = b;      // its a byte auto-casted to an int
-            float f = 9.8f; // treated explitly as float
+            float f = 9.8f; // treated explitly as float, not as double
             string str = "1234";
 
             //IMPLICIT TYPE CONVERSION - AUTO CASTING
