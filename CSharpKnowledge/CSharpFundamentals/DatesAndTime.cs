@@ -34,7 +34,7 @@ namespace CSharpFundamentals
             var dateTime2 = new DateTime(2015, 1, 1, 13, 0, 0);
             var dateTime3 = new DateTime(2015, 1, 1, 13, 0, 0, DateTimeKind.Local);
             var dateTime4 = DateTime.SpecifyKind(dateTime3, DateTimeKind.Utc);
-
+            
             var now = DateTime.Now;
             var today = DateTime.Today;
             var curYear = DateTime.Now.Year;

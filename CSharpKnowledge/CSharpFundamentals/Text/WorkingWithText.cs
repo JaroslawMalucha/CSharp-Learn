@@ -10,13 +10,13 @@ namespace CSharpFundamentals
     {
         public static void testStrings()
         {
-            //StringBasics();
+            StringBasics();
             //StringBuilderBasics();
-            Exercise1();
-            Exercise2();
-            Exercise3();
-            Exercise4();
-            Exercise5();
+            //Exercise1();
+            //Exercise2();
+            //Exercise3();
+            //Exercise4();
+            //Exercise5();
         }
 
 
@@ -26,8 +26,50 @@ namespace CSharpFundamentals
             //  that means that objects built in modification methods return new objects,
             //  instead of modifying the existing one, e.g. my String.Trim() returns new object
 
+            // all strings are essentially a char array inside
+
             // STRING CREATION
-            // ???????????????????????????????
+            // empty
+            string emptyStr = string.Empty;
+            emptyStr = "";
+            Console.WriteLine("".Equals(string.Empty));
+
+            // from literals
+            string firstName = "Mosh";
+            string lastName = "Smith";
+            // from other strings
+            string name = firstName + " " + lastName;
+            name = string.Format("{0} {1}", firstName, lastName);
+            // from using join
+            var numbers = new int[3] { 1, 2, 3 };
+            string list = string.Join(",", numbers);
+            var numbers2 = list.Split(',');
+            list = "asdf";
+            // from accessing via char index in a string
+            char firstChar = list[0];
+            firstChar = 'L';        // => this creates a new string
+            //list[0] = 'AASD';     // => existing strings are immutable
+
+            // from char array
+            char[] firstNameChars = firstName.ToCharArray();
+            firstName = new string(firstNameChars);
+
+            // ESCAPE SEQUENCES/CHARACTERS:
+            //  \n - New Line
+            //  \t - Tab
+            //  \\ - Backslash
+            //  \' - Single Quotation Mark
+            //  \" - Double Quatation Mark
+            //  \a - will make a sound !!! :D
+
+            // VERBATIM STRINGS - ignore escape charackters and allow strings to be multiline in source code
+            string path = "c:\\projects\folder1";
+            path = @"c:\projects\folder1";
+            var text = "Hi John\nLook in this dir\nC:\\folder1";
+            text = @"Hi John
+Look in this dir
+C:\folder1";
+            Console.WriteLine(text);
 
 
             var fullName = "Jarek   Malucha   ";
@@ -36,7 +78,7 @@ namespace CSharpFundamentals
             //fullName[0] = "N"; // IMMUTABLE !!! so will not compile
             fullName.ToUpper(); // IMMUTABLE !!! will compile but just outputs a new string object
 
-            ////FORMATTING
+            //// FORMATTING
             //https://docs.microsoft.com/en-us/dotnet/standard/base-types/standard-numeric-format-strings
             // ToUpper
             Console.WriteLine("ToUpper: " + fullName.ToUpper());
@@ -46,8 +88,15 @@ namespace CSharpFundamentals
             fullName.Trim();
             Console.WriteLine("'" + fullName + "'"); //shows the immutability
             Console.WriteLine("Trim: '{0}'", fullName.Trim()); //shows the immutability
+            // Format - usefull for numebrs, dates, etc.
+            // check out WorkingWithDates to learn more
+            var myFullName = string.Format("My name is {0} {1}", firstName, lastName);
 
-            //// SEARCHING
+            // DIRECT INSERTION OF VARIABLES - STRING INTERPOLATION
+            Console.WriteLine($"my name is: {fullName} :)");
+
+
+            //// SEARCH and ACCESS
             // LastIndexOf
             fullName = fullName.Trim();
             var lindex = fullName.LastIndexOf(' ');
@@ -55,16 +104,25 @@ namespace CSharpFundamentals
             var index = fullName.IndexOf(' ');
             int index2 = (lindex > index && index < fullName.Length) ? lindex: index;
             // Substring
-            var firstName = fullName.Substring(0,index);
-            var lastName = fullName.Substring(index2 + 1);
+            firstName = fullName.Substring(0,index); // like mid() in vba
+            lastName = fullName.Substring(index2 + 1);
             Console.WriteLine("FirstName: '{0}'", firstName);
             Console.WriteLine("LastName: '{0}'", lastName);
+            // access via char index
+            char letter = fullName[4];
+            string phrase = fullName[4].ToString();
 
             //// OTHER
             // Replace
             fullName = fullName.Replace("Jarek", "Jaroslaw");
             fullName = fullName.Replace("Malucha", "Małucha");
             Console.WriteLine("FullName: '{0}'", fullName);
+            // Remove
+            var ii = fullName.LastIndexOf("ł");
+            var fullName2 = fullName.Remove(ii,1);
+            // Insert
+            var fullName3 = fullName2.Insert(ii, "ł");
+            Console.WriteLine(fullName3);
             // NullChecking
             if (String.IsNullOrWhiteSpace(" ")) //checks for Null, Empty String, HasOnlyWhiteSpace
                 Console.WriteLine("Invalid");
@@ -78,6 +136,12 @@ namespace CSharpFundamentals
             Console.WriteLine(fullName);
             fullName = String.Join(" ", names);
             Console.WriteLine(fullName);
+            var formattedNames = string.Join(",", new string[] { "Jack", "John", "Maya" });
+            Console.WriteLine(formattedNames);
+            // Length
+            Console.WriteLine(fullName.Length);
+
+
 
             //// CONVERSION
             //Both Convert And Parse will throw an exception if String is EmptyString or WhiteSpace
@@ -110,7 +174,7 @@ namespace CSharpFundamentals
             Console.WriteLine(Double.TryParse(n4, out d));
 
 
-            // SUMMERISE TEXT
+            // SUMMARISE TEXT
             var sentence = "I am trying to check if a string contains a numeric value, if it doesnt return to a label if it does then I would like to show the main window. How can this be done?";
             Console.WriteLine(sentence);
             Console.WriteLine("Summary: " + StringUtility.SummariseText(sentence, 40));

@@ -20,10 +20,23 @@ namespace CSharpFundamentals
             // DONT USE FOR what its doing
 
 
-            // All variables must be initialized to be used 
-            // Notation standards
-            //  - CamelCase - variables
-            //  - PascalCase - constants
+            // NAMING CONVENTIONS !!!
+            // Formal:
+            //  - camelCase - variables, parameters
+            //  - _[varName] - private fields, eg. _privateVariableField, _PrivateConstant
+            //  - PascalCase - constants, Methods, Properties, Public Fields, Classes, etc. (why constants: constants should be considered as encapsulated abstractions, they often get changed later to global procuderues so PascalCase will not break the rest of the code)
+            //  - CAPS_SNAKE - magic global constants (usually you should use PascalCase, read above)
+            // Heuristic:
+            //  - Do choose easily readable names (HorizontalAlignment more english than AlignmentHorizontal, although heavy use of intelliSense prefers Categorized Naming)
+            //  - Do favor readability over brevity (GetProductCoded is better than GetProCod)
+            //  - Avoid using identifiers that conflict with keywords of wildly used programming langiages
+            //  - Avoid using numeric and special symbols
+
+            //Other notation standards:
+            // camelCase
+            // PascalCase
+            // snake_case
+            // kebab-case
 
             //Usefull Shortcuts
             //PROJECT:

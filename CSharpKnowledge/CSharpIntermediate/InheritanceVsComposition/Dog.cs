@@ -8,7 +8,7 @@ namespace CSharpIntermediate.InheritanceVsComposition
 {
     public class Dog: Animal // only one parent is possible due to Diamond conflict
     {
-        public new string Name;             //hides animals Name // the "new" keyword is optional but should be used
+        public new string Name; //hides animals Name // the "new" keyword is optional but should be used
         public override string Type { get; set; }    //hides animals Type
 
         public Dog()
@@ -16,7 +16,7 @@ namespace CSharpIntermediate.InheritanceVsComposition
             Console.WriteLine("I am a Dog, a nobodys Dog, I have no name... I am so sad.");
         }
         public Dog(string name)
-            : base(name)
+            : base(name) // calls this classes other constructor
         {
             Console.WriteLine("My name is {0}, I am a Dog", name);
         }

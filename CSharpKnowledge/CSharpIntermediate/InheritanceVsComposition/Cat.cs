@@ -11,12 +11,12 @@ namespace CSharpIntermediate.InheritanceVsComposition
         public string Name; //hides animals Name
         public string Type { get; set; }//hides animals Type
 
-        public new void Eat()
+        public new void Eat() //hides 
         {
             Console.WriteLine("Eating");
         }
 
-        public void Walk()
+        public void Walk() //hides 
         {
             Console.WriteLine("Walking");
         }

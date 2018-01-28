@@ -14,7 +14,7 @@ namespace CSharpIntermediate.InheritanceVsComposition
 
         public void Swim()
         {
-            Console.WriteLine("Swimming");
+            Console.WriteLine("Swimming"); 
         }
     }
 }

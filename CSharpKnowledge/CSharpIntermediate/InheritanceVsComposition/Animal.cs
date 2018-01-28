@@ -8,29 +8,29 @@ namespace CSharpIntermediate.InheritanceVsComposition
 {
     public class Animal
     {
-        public string Name;
-        public virtual string Type { get; set; }
+        public string Name; // can be hidden
+        public virtual string Type { get; set; }  //can be overriden
 
         public Animal()
         {
             Console.WriteLine("Default Animal Constructor");
         }
-        public Animal(string calledFrom)
+        public Animal(string calledFrom) // Contstructor overload
         {
             Console.WriteLine("Animal Constructor from " + calledFrom);
         }
 
-        public void Eat()
+        public void Eat() // can be hidden
         {
             Console.WriteLine("Eating");
         }
 
-        public virtual void Walk()
+        public virtual void Walk() //can be overriden
         {
             Console.WriteLine("Walking");
         }
 
-        protected void Sleep()
+        protected void Sleep() // can be hidden
         {
             Console.WriteLine("Animal is sleeping");
         }

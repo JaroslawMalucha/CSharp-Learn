@@ -28,6 +28,9 @@ namespace CSharpAdvanced
 
         public static void testEntity()
         {
+
+            // here you can see when Garbage Collectors kicks in 
+            // - its not always obvious and sometimes you might need to trigger it explicitly, although usually its not a good practice
             CreateBabies();
             GC.Collect();
             Console.WriteLine(LivingEntity.Count);

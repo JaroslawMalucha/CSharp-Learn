@@ -16,8 +16,8 @@ namespace CSharpFundamentals.Loops
             // Other Collections
 
             // SPECIAL INSTRUCTIONS
-            //  break
-            //  continue
+            //  break - interupts the loop and exits completely
+            //  continue - skips to next iteration
 
             // for
             { 
@@ -83,8 +83,14 @@ namespace CSharpFundamentals.Loops
             }
 
 
-            // do while
-
+            // do while - executes at least once
+            {
+                var i = 1;
+                do
+                {
+                    Console.WriteLine("i={0}", i);
+                } while (i<1);
+            }
 
         }
     }

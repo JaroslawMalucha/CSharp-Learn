@@ -38,7 +38,7 @@
         // Inheritance
 
         //// GOOD PRACTICE:
-        // Encapsulate as much as posible - hide implementation, expose interface for communication
+        // Encapsulate as much as possible(meaningful,productive) - hide implementation, expose interface for communication
         // OBJECTS MUST ALLWAYS BE IN A VALID STATE
         // Set access permissions as restrictive as possible to disallow accidentaly making an Object INVALID
 

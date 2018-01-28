@@ -11,15 +11,15 @@ namespace CSharpFundamentals
         public static void ArraysBasics()
         {
             // C#.NET is optimized for Jagged arrays
-            // Arrays are fixes size
+            // Arrays are fixed size
 
-
+            // VECTORS
             //int[] nums = new int[]; // incorect <= must have size when creating
             int[] numbers = new int[] { 1, 2, 3 };
             var numbers2 = new int[] { 1, 2, 3 };
             var numbers3 = new[] { 1, 2, 3 };
             var strings = new[] { "1", "2", "3" };
-            
+            string[] strings2 = { "1", "2", "3" };
 
             Console.WriteLine(numbers[0]);
             Console.WriteLine(numbers[1]);
@@ -35,7 +35,7 @@ namespace CSharpFundamentals
             var names = new string[3] { "John", "Jack", "Mary" };
 
 
-            //RECTANGULAR ARRAYs
+            //RECTANGULAR ARRAYs - MATRIX
             //2d
             var matrix = new int[3, 5];
             var matrix1 = new int[3, 5] 
@@ -49,7 +49,7 @@ namespace CSharpFundamentals
             var colors = new int[3, 5, 4];
 
 
-            //JAGGED ARRAYs
+            //JAGGED ARRAYs - ARRAYS OF ARRAYS
             var jaggedArray = new int[3][];
             jaggedArray[0] = new int[4];
             jaggedArray[0] = new int[5];
@@ -93,8 +93,6 @@ namespace CSharpFundamentals
             Console.WriteLine("Effect of Reverse()");
             foreach (var n in arr)
                 Console.WriteLine(n);
-
-
 
         }
 

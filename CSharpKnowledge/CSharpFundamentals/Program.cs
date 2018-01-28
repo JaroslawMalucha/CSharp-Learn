@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using CSharpFundamentals.Math;
+using CSharpFundamentals.MathFunctions;
 
 namespace CSharpFundamentals
 {
@@ -13,20 +13,19 @@ namespace CSharpFundamentals
         public static void Main(string[] args)
         {
             //Basics.Run();
-            DatesAndTime.testDates();
+            //DatesAndTime.testDates();
+            WorkingWithText.testStrings();
+            MathFuncs.testMathFunctions();
+
             //Person.testPerson();
-            //Calculator.TestCalculator();
             //Arrays.ArraysBasics();
             //Lists.testList();
-            //Strings.StringsBasics();
             //Enumerations.testEnumerations();
             //Types.testTypes();
             //Conditionals.testConditionals();
             //Loops.Loops.testLoops();
             //Loops.Loops2.testLoops();
-            //Random.testRandom();
             //LoopsExercise.testLoops();
-            //WorkingWithText.testStrings();
             //WorkingWithFiles.testFiles();
         }
     }

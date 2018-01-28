@@ -23,11 +23,12 @@ namespace CSharpFundamentals
         //  allocated on stack
         //  memory allocation done automatically
         //  immediately removed when out of scope when exits its context on te stack
-        // 
+        // e.g.: primiteves, strings
         // Classes - REFERENCE TYPES
         //  you need to allocate memory
         //  memory allocated on heap
         //  removed by garbage collector
+        // e.g.: arrays, collections
 
         public static void testTypes()
         {
