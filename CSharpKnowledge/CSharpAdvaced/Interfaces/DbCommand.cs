@@ -13,6 +13,9 @@ namespace CSharpAdvanced
             var command = new DbCommand(new SqlConnection(),"SELECT * FROM myTable;");
             command.Execute();
         }
+
+
+
         private DbConnection _dbConnection;
 
         public DbConnection DbConnection
@@ -26,8 +29,6 @@ namespace CSharpAdvanced
         {
             get { return _sql; }
         }
-
-
 
         public DbCommand(DbConnection dbConnection, string sql)
         {

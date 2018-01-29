@@ -12,7 +12,9 @@ namespace CSharpIntermediate
         {
             ClassBasics.ClassBasics.testClassBasics();
             InheritanceVsComposition.AnimalTesting.testAnimals();
+            InheritanceVsComposition.Polymorphism_Shapes.testPolymorphism_Shapes();
             Exercises.Stack.testStack();
+            Exercises.CarsExercise.testCarsExercise();
         }
     }
 }

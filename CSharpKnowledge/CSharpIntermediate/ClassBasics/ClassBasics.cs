@@ -32,7 +32,8 @@
         // Class - a template, and a module; has static class components
         // Object - instance; has instance components
 
-        //// OOP MAIN CONCEPTS:
+        //// OOP MAIN CONCEPTS - OOP FOUR PILLARS:
+        // Abstraction
         // Encapsulation
         // Polymorphism
         // Inheritance
@@ -49,6 +50,10 @@
         // Protected - The type or member can be accessed only by code in the same class or struct, or in a class that is derived from that class.
         // Private - (DEFAULT for fields) The type or member can be accessed only by code in the same class or struct.
 
+        // OTHER MODIFIERS
+        // sealed - prevents further inheritance for classes and further overriding for methods
+        // static - for methods classes means its accessable via class and not via an object(the class object instance)
+        //        ...for classes means can only have static members, cannot instantiate, implicitly sealed
         public static void testClassBasics()
         {
             Customer.testCustomer();

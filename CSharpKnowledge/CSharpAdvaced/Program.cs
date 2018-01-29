@@ -14,7 +14,10 @@ namespace CSharpAdvanced
             StackOverflowPost.testStackPost();
             Stopwatch.testStopwatch();
             Baby.testEntity();
+
             DbCommand.testDbCommand();
+            CSharpAdvanced.Interfaces.WorflowEngine.WorkflowEngine.testWorkflowEngine();
+
             Delegates.PhotoProcessor.testDelegates();
             LambdaExpressions.LabdaExpressions.testLambdaExpressions();
             EventsAndDelegates.EventsAndDelegates.testEventsAndDelegates();

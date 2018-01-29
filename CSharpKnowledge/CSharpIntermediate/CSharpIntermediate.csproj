@@ -43,6 +43,7 @@
     <Compile Include="ClassBasics\ClassBasics.cs" />
     <Compile Include="ClassBasics\Customer.cs" />
     <Compile Include="ClassBasics\HttpCookie.cs" />
+    <Compile Include="Exercises\CarsExercise.cs" />
     <Compile Include="Exercises\Stack.cs" />
     <Compile Include="InheritanceVsComposition\Animal.cs" />
     <Compile Include="InheritanceVsComposition\AnimalTesting.cs" />
@@ -51,6 +52,7 @@
     <Compile Include="InheritanceVsComposition\Fish.cs" />
     <Compile Include="InheritanceVsComposition\Human.cs" />
     <Compile Include="ClassBasics\Person.cs" />
+    <Compile Include="InheritanceVsComposition\Polymorphism_Shapes.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
