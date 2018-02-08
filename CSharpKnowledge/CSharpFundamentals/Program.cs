@@ -18,17 +18,29 @@ namespace CSharpFundamentals
             //MathFuncs.testMathFunctions();
 
             //Person.testPerson();
+
             //Arrays.ArraysBasics();
             //Lists.testList();
+            //CSharpFundamentals.Collections.Non_Generic.ArrayLists.test();
+            //CSharpFundamentals.Collections.Non_Generic.HashTableTest.test();
+            //CSharpFundamentals.Collections.Non_Generic.SortedListTest.test();
+            //CSharpFundamentals.Collections.Non_Generic.StackTest.test();
+            //CSharpFundamentals.Collections.Non_Generic.QueueTest.test();
+            //CSharpFundamentals.Collections.Non_Generic.BitArrayTest.test();
+            CSharpFundamentals.Collections.AnimalsAndTrainersExercise.run();
+
+
             //Enumerations.testEnumerations();
             //Types.testTypes();
+
             //Conditionals.testConditionals();
+
             //Loops.Loops.testLoops();
             //Loops.Loops2.testLoops();
             //LoopsExercise.testLoops();
 
             //WorkingWithFiles.testFiles();
-            ExerciseFilesCreator.test();
+            //ExerciseFilesCreator.test();
         }
     }
 }

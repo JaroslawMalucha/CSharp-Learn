@@ -58,8 +58,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Collections\AnimalsAndTrainersExercise.cs" />
+    <Compile Include="Collections\Non_Generic\ArrayLists.cs" />
     <Compile Include="Collections\Arrays.cs" />
     <Compile Include="Basics.cs" />
+    <Compile Include="Collections\Non_Generic\BitArrayTest.cs" />
+    <Compile Include="Collections\Non_Generic\HashTableTest.cs" />
+    <Compile Include="Collections\Non_Generic\QueueTest.cs" />
+    <Compile Include="Collections\Non_Generic\SortedListTest.cs" />
+    <Compile Include="Collections\Non_Generic\StackTest.cs" />
     <Compile Include="Conditionals\Conditionals.cs" />
     <Compile Include="DatesAndTime.cs" />
     <Compile Include="ExerciseFileCreator.cs" />
@@ -111,6 +118,9 @@
       <ProductName>.NET Framework 3.5 SP1</ProductName>
       <Install>false</Install>
     </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Collections\Generic\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

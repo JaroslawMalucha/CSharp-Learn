@@ -22,7 +22,6 @@ D:\Jarek\Projects\VSProjects\CSharp\_JMproj\CSharpKnowledge\CSharpIntermediate\o
 D:\Jarek\Projects\VSProjects\CSharp\_JMproj\CSharpKnowledge\CSharpIntermediate\obj\Debug\CSharpIntermediate.dll
 D:\Jarek\Projects\VSProjects\CSharp\_JMproj\CSharpKnowledge\CSharpIntermediate\obj\Debug\CSharpIntermediate.pdb
 D:\Jarek\Projects\CSharp\Learn\CSharp-Learn\CSharpKnowledge\CSharpIntermediate\bin\Debug\CSharpIntermediate.pdb
-D:\Jarek\Projects\CSharp\Learn\CSharp-Learn\CSharpKnowledge\CSharpIntermediate\obj\Debug\CSharpIntermediate.csprojResolveAssemblyReference.cache
 D:\Jarek\Projects\CSharp\Learn\CSharp-Learn\CSharpKnowledge\CSharpIntermediate\obj\Debug\CSharpIntermediate.csproj.CoreCompileInputs.cache
 D:\Jarek\Projects\CSharp\Learn\CSharp-Learn\CSharpKnowledge\CSharpIntermediate\obj\Debug\CSharpIntermediate.pdb
 D:\Jarek\Projects\CSharp\Learn\CSharp-Learn\CSharpKnowledge\CSharpIntermediate\bin\Debug\CSharpIntermediate.exe
