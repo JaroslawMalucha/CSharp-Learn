@@ -26,6 +26,17 @@ namespace CSharpAdvanced
         // - on implementing class declaration to auto-create stubs of implemented methods
         // - on any class declaration to auto-extract to create an interface based on the class methods
 
+        // INTERFACES vs ABSTRACT CLASS (INHERITANCE)
+        // SAME:
+        // - cant instantiate
+        // - must implement all members
+        // - can contain events, methods, properties
+        // DIFF:
+        // - cant have method implementations
+        // - allow multiple implementations, while cannot inherit from multiple classes
+        // - no access modifiers, everything is public since we are in fact defining a public interface
+        // - cant contain variables
+
     }
 
 }

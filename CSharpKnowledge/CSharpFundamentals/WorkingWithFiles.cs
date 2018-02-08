@@ -16,6 +16,9 @@ namespace CSharpFundamentals
             DirectoryAndDirectoryinfo();
             Exercise1();
             Exercise2();
+
+            writeFile_StreamWriter();
+            readFile_StreamReader();
         }
 
         public static void CreateTestFile()
@@ -133,6 +136,37 @@ namespace CSharpFundamentals
                     maxIndex = i;
                 }
             return words[maxIndex];
+        }
+
+
+
+        public static void writeFile_StreamWriter()
+        {
+            string folder = @"C:\jmTEMP\files";
+            Directory.CreateDirectory(folder);
+            string fileName = @"Names.txt";
+            string file = Path.Combine(folder, fileName);
+
+            StreamWriter sw = new StreamWriter(file, true);
+            sw.WriteLine("asf");
+            sw.WriteLine("xxx");
+            sw.WriteLine("asfasf");
+            sw.Close();
+
+        }
+
+
+        public static void readFile_StreamReader()
+        {
+            string folder = @"C:\jmTEMP\files";
+            Directory.CreateDirectory(folder);
+            string fileName = @"Names.txt";
+            string file = Path.Combine(folder, fileName);
+
+            System.IO.StreamReader sr = new StreamReader(file);
+            Console.WriteLine(sr.ReadToEnd() ); 
+            sr.Close();
+
         }
     }
 }

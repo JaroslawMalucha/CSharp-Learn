@@ -10,11 +10,12 @@ namespace CSharpIntermediate
     {
         public static void Main(string[] args)
         {
-            ClassBasics.ClassBasics.testClassBasics();
-            InheritanceVsComposition.AnimalTesting.testAnimals();
-            InheritanceVsComposition.Polymorphism_Shapes.testPolymorphism_Shapes();
-            Exercises.Stack.testStack();
-            Exercises.CarsExercise.testCarsExercise();
+            Structs.testStructs();
+            //ClassBasics.ClassBasics.testClassBasics();
+            //InheritanceVsComposition.AnimalTesting.testAnimals();
+            //InheritanceVsComposition.Polymorphism_Shapes.testPolymorphism_Shapes();
+            //Exercises.Stack.testStack();
+            //Exercises.CarsExercise.testCarsExercise();
         }
     }
 }

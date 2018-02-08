@@ -36,6 +36,7 @@
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
+    <LangVersion>latest</LangVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -61,6 +62,7 @@
     <Compile Include="Basics.cs" />
     <Compile Include="Conditionals\Conditionals.cs" />
     <Compile Include="DatesAndTime.cs" />
+    <Compile Include="ExerciseFileCreator.cs" />
     <Compile Include="IEnumerable\Enumerations.cs" />
     <Compile Include="IEnumerable\car.cs" />
     <Compile Include="IEnumerable\Cars.cs" />

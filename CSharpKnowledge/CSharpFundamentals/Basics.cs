@@ -101,6 +101,7 @@ namespace CSharpFundamentals
             Basics.BuiltInTypes();
             Basics.TypeConversion();
             Basics.Operators();
+            Basics.otherstufff();
         }
 
         public static void ConsoleBasics()
@@ -111,6 +112,11 @@ namespace CSharpFundamentals
             Console.WriteLine("Hello World");
             Console.WriteLine("{0} {1}", byte.MinValue, byte.MaxValue);
             Console.WriteLine("{0} {1}", float.MinValue, float.MaxValue);
+
+            Console.ForegroundColor = ConsoleColor.Cyan;
+            Console.BackgroundColor = ConsoleColor.Magenta;
+            Console.WriteLine("CYAN CYAN CYAN CAT ;PPPPPPPPP");
+            Console.ResetColor();
         }
 
         public static void BuiltInTypes()
@@ -198,6 +204,15 @@ namespace CSharpFundamentals
             Console.WriteLine(typeof(decimal).IsPrimitive);
             Console.WriteLine(typeof(double).IsPrimitive);
             Console.WriteLine(typeof(byte).IsPrimitive);
+
+
+            // DIGIT SEPARATOR SYNTAX
+            var bignum = 112_421_421_111_000;
+            Console.WriteLine(bignum);
+
+            // default KEYWORD
+            DateTime dt = default; // C# 7.1+ // change in project properties>build>advanced
+            Console.WriteLine(dt);
 
         }
 
@@ -309,6 +324,17 @@ namespace CSharpFundamentals
             // &
             // |
 
+
+        }
+
+
+        public static void otherstufff()
+        {
+            goto iLoveLabelsAndGoTosNOT;
+            System.Diagnostics.Debug.WriteLine("test ;)");
+            
+            iLoveLabelsAndGoTosNOT:
+            System.Diagnostics.Debug.WriteLine("test ;("); // prints to Output window
 
         }
 

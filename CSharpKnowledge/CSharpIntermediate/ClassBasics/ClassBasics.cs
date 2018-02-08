@@ -48,19 +48,66 @@
         // Protected Internal - within same assembly OR within a child class of another assembly
         // Internal - (DEFAULT for classes) The type or member can be accessed by any code in the same assembly, but not from another assembly.
         // Protected - The type or member can be accessed only by code in the same class or struct, or in a class that is derived from that class.
-        // Private - (DEFAULT for fields) The type or member can be accessed only by code in the same class or struct.
+        // Private - (DEFAULT for fields and methods) The type or member can be accessed only by code in the same class or struct.
 
         // OTHER MODIFIERS
         // sealed - prevents further inheritance for classes and further overriding for methods
         // static - for methods classes means its accessable via class and not via an object(the class object instance)
         //        ...for classes means can only have static members, cannot instantiate, implicitly sealed
+
+        // NESTED CLASSES
+        // - classes declared inside another class
+        // - private by default
+        // - benefits: 
+        //      - does not pollute the global scope
+        //      - nested class has full access to members of the parent class (also private members)
+        //      - nested class that inherits from its parent abstract class: full control, denies sublassing
+
+        // PARTIAL CLASSES
+        // - just a class spread out on multiple files
+        // - use [partial] in class declaration, eg. partial public class Person
+
         public static void testClassBasics()
         {
             Customer.testCustomer();
             Person.testPerson();
             HttpCookie.testHttpCookie();
+
+        }
+
+    }
+
+}
+
+// NAMESPACES
+
+namespace testNamespace
+{
+    partial class partialClass
+    {
+        int age = 2;
+    }
+}
+
+namespace testNamespace
+{
+    partial class partialClass
+    {
+        int eyes = 2;
+        int x;
+        testNamespace2.dummyClass y = new testNamespace2.dummyClass();
+        public partialClass()
+        {
+            x = age * 2;
         }
     }
 
-    
+    namespace testNamespace2
+    {
+        class dummyClass
+        {
+
+        }
+    }
+
 }

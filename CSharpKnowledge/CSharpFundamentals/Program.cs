@@ -14,8 +14,8 @@ namespace CSharpFundamentals
         {
             //Basics.Run();
             //DatesAndTime.testDates();
-            WorkingWithText.testStrings();
-            MathFuncs.testMathFunctions();
+            //WorkingWithText.testStrings();
+            //MathFuncs.testMathFunctions();
 
             //Person.testPerson();
             //Arrays.ArraysBasics();
@@ -26,7 +26,9 @@ namespace CSharpFundamentals
             //Loops.Loops.testLoops();
             //Loops.Loops2.testLoops();
             //LoopsExercise.testLoops();
+
             //WorkingWithFiles.testFiles();
+            ExerciseFilesCreator.test();
         }
     }
 }

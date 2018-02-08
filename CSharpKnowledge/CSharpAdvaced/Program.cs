@@ -27,6 +27,10 @@ namespace CSharpAdvanced
             Dynamics.testDynamics();
             ExceptionHandling.testExceptionHandling();
 
+            MethodDescription.test();
+
+            CSharpAdvanced.Cryptography.CryptographyApp.test();
+            CSharpAdvanced.Cryptography.CaesarCipherApp.test();
             //var cus = new Customer
             //{
             //    // OBJECT INITIALIZER:
