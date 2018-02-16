@@ -17,8 +17,8 @@ namespace System  //this will add the Extension Methods class to System and will
         // TO CREATE AN EXTENSION METHOD:
         // - class must be static, preferably public 
         // - methods must be public static
-        // - methods must contain "this Type varName" as the first argument
-        // - Extenions class must be within the scop, duhh
+        // - methods must contain "this Type varName" as the first argument -> this specifies the extended type
+        // - Extenions class must be within the scope, duhh
         // - to easily add Extension class to the global Scope just use the Systme Namespace as containing Namespace
 
         // WARNING !!!
@@ -41,6 +41,27 @@ namespace System  //this will add the Extension Methods class to System and will
                 return str;
 
             return string.Join(" ", words.Take(numberOfWords))+"..."; // Take is actually an EXtension Method provided my Microsoft later on in the .NET development
+        }
+    }
+
+    static class IntExtensions
+    {
+        public static bool IsGreaterThen(this int value, int number)
+        {
+            return (value > number);
+        }
+
+        public static bool IsLesserThen(this int value, int number)
+        {
+            return (value < number);
+        }
+    }
+
+    static class DateTimeExtensions
+    {
+        public static string MyCustomFormat(this DateTime value)
+        {
+            return string.Format("{0:dddd dd \nMMMM yyyy}", value);
         }
     }
 }

@@ -11,26 +11,44 @@ namespace CSharpAdvanced
     {
         public static void Main(string[] args)
         {
-            StackOverflowPost.testStackPost();
-            Stopwatch.testStopwatch();
-            Baby.testEntity();
+            //StackOverflowPost.testStackPost();
+            //Stopwatch.testStopwatch();
+            //ClassesExercises.StopwatchDotNet.test();
 
-            DbCommand.testDbCommand();
-            CSharpAdvanced.Interfaces.WorflowEngine.WorkflowEngine.testWorkflowEngine();
+            //Baby.testEntity();
 
-            Delegates.PhotoProcessor.testDelegates();
-            LambdaExpressions.LabdaExpressions.testLambdaExpressions();
-            EventsAndDelegates.EventsAndDelegates.testEventsAndDelegates();
-            ExtensionMethods.ExtensionMethods.testExtensionMethods();
-            LINQ.TestingLINQ.testingLINQ();
-            NullableTypes.testNullable();
-            Dynamics.testDynamics();
-            ExceptionHandling.testExceptionHandling();
+            //DbCommand.testDbCommand();
+            //CSharpAdvanced.Interfaces.WorflowEngine.WorkflowEngine.testWorkflowEngine();
 
-            MethodDescription.test();
+            //Delegates.PhotoProcessor.testDelegates();
 
-            CSharpAdvanced.Cryptography.CryptographyApp.test();
-            CSharpAdvanced.Cryptography.CaesarCipherApp.test();
+            //Delegates.Delegates01.test();
+            //Delegates.DelegatesVsDirectCalls.test();
+            //Delegates.MulticastDelegate.test();
+            //Delegates.GenericDelegates.test();
+
+            AnonymousMethods.test();
+
+            //LambdaExpressions.LabdaExpressions.testLambdaExpressions();
+            //EventsAndDelegates.EventsAndDelegates.testEventsAndDelegates();
+            //ExtensionMethods.ExtensionMethods.testExtensionMethods();
+            //LINQ.TestingLINQ.testingLINQ();
+            //NullableTypes.testNullable();
+            //Dynamics.testDynamics();
+            //ExceptionHandling.testExceptionHandling();
+
+            //MethodDescription.test();
+
+            //CSharpAdvanced.Cryptography.CryptographyApp.test();
+            //CSharpAdvanced.Cryptography.CaesarCipherApp.test();
+
+
+            //CSharpAdvanced.Recursion.test();
+
+            //CSharpAdvanced.LocalFunctionsTest.test();
+
+
+
             //var cus = new Customer
             //{
             //    // OBJECT INITIALIZER:

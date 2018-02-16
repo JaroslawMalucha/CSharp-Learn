@@ -20,6 +20,11 @@ namespace CSharpAdvanced.ExtensionMethods
 
             Console.WriteLine(max);
 
+            int i = 0;
+            Console.WriteLine(i.IsGreaterThen(4));
+
+
+            Console.WriteLine(new DateTime(2012,2,2).MyCustomFormat());
         }
 
     }

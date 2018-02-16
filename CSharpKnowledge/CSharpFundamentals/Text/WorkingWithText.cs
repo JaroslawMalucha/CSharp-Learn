@@ -54,6 +54,12 @@ namespace CSharpFundamentals
             char[] firstNameChars = firstName.ToCharArray();
             firstName = new string(firstNameChars);
 
+            // as replicated phrase
+            string s = new string('-', 10);
+            string phrase = "abc";
+            int count = 10;
+            string s2 = new StringBuilder(phrase.Length * count).Insert(0, phrase, count).ToString();
+
             // ESCAPE SEQUENCES/CHARACTERS:
             //  \n - New Line
             //  \t - Tab
@@ -110,7 +116,7 @@ C:\folder1";
             Console.WriteLine("LastName: '{0}'", lastName);
             // access via char index
             char letter = fullName[4];
-            string phrase = fullName[4].ToString();
+            string phrase2 = fullName[4].ToString();
 
             //// OTHER
             // Replace

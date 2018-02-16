@@ -19,6 +19,13 @@ namespace CSharpFundamentals
 
             writeFile_StreamWriter();
             readFile_StreamReader();
+
+
+            string path = string.Empty;
+            path = @"D:\Jarek\Projects\CSharp\Learn\Courses\Udemy_the-complete-c-sharp-developer-course";
+            Console.WriteLine(path);
+            DisplayFolder(path, 0);
+            DisplayFolders(path, 0);
         }
 
         public static void CreateTestFile()
@@ -167,6 +174,22 @@ namespace CSharpFundamentals
             Console.WriteLine(sr.ReadToEnd() ); 
             sr.Close();
 
+        }
+
+        public static void DisplayFolder(string path, int indent)
+        {
+            foreach (var folder in Directory.GetDirectories(path))
+            {
+                Console.WriteLine($"{new string(' ', indent)} {Path.GetFileName(folder)}");
+            }
+        }
+        public static void DisplayFolders(string path, int indent)
+        {
+            foreach (var folder in Directory.GetDirectories(path))
+            {
+                Console.WriteLine($"{new string(' ', indent)} {Path.GetFileName(folder)}");
+                DisplayFolders(folder, indent + 2);
+            }
         }
     }
 }

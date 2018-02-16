@@ -10,8 +10,13 @@ namespace CSharpAdvanced.Delegates
     {
         public delegate void PhotoFilterHandler(Photo photo);
 
-        //public void Process(string path, PhotoFilterHandler filterHandleer)
         public void Process(string path, System.Action<Photo> filterHandleer)
+        {
+            var photo = new Photo(path);
+
+            filterHandleer(photo);
+        }
+        public void Process(string path, PhotoFilterHandler filterHandleer)
         {
             var photo = new Photo(path);
 
@@ -26,20 +31,34 @@ namespace CSharpAdvanced.Delegates
 
         public static void testDelegates()
         {
-            var filters  = new PhotoFilters();
+            var filters = new PhotoFilters();
+            {
+                //PhotoProcessor.PhotoFilterHandler filterHandler;
+                Action<Photo> filterHandler = null;
 
-            //PhotoProcessor.PhotoFilterHandler filterHandler;
-            Action<Photo> filterHandler = null;
-            filterHandler += filters.ApplyBrightness;
+                // this is a delegate multicast - assigning multiple methods to one delegate instance
+                filterHandler += filters.ApplyBrightness;
 
-            filterHandler += filters.ApplyColor;
-            filterHandler += filters.ApplyTransparency;
-            var processor = new PhotoProcessor();
-            filterHandler += processor.RemoveRedEye;
+                filterHandler += filters.ApplyColor;
+                filterHandler += filters.ApplyTransparency;
+                var processor = new PhotoProcessor();
+                filterHandler += processor.RemoveRedEye;
 
-            processor.Process("photo.jpg", filterHandler);
+                processor.Process("photo.jpg", filterHandler);
+            }
+            {
+                PhotoProcessor.PhotoFilterHandler filterHandler = null;
+                filterHandler += filters.ApplyBrightness;
+
+                filterHandler += filters.ApplyColor;
+                filterHandler += filters.ApplyTransparency;
+                var processor = new PhotoProcessor();
+                filterHandler += processor.RemoveRedEye;
+
+                processor.Process("photo.jpg", filterHandler);
+            }
         }
 
-        
+
     }
 }

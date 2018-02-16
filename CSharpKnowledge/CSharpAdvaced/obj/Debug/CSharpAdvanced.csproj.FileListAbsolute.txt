@@ -7,9 +7,9 @@ D:\Jarek\Projects\VSProjects\CSharp\_JMproj\CSharpKnowledge\CSharpAdvaced\obj\De
 D:\Jarek\Projects\VSProjects\CSharp\_JMproj\CSharpKnowledge\CSharpAdvaced\bin\Debug\CSharpAsyncAwait.exe
 D:\Jarek\Projects\VSProjects\CSharp\_JMproj\CSharpKnowledge\CSharpAdvaced\bin\Debug\CSharpAsyncAwait.pdb
 D:\Jarek\Projects\VSProjects\CSharp\_JMproj\CSharpKnowledge\CSharpAdvaced\bin\Debug\CSharpAsyncAwait.exe.config
-D:\Jarek\Projects\CSharp\Learn\CSharp-Learn\CSharpKnowledge\CSharpAdvaced\bin\Debug\CSharpAdvaced.pdb
-D:\Jarek\Projects\CSharp\Learn\CSharp-Learn\CSharpKnowledge\CSharpAdvaced\obj\Debug\CSharpAdvanced.csprojResolveAssemblyReference.cache
 D:\Jarek\Projects\CSharp\Learn\CSharp-Learn\CSharpKnowledge\CSharpAdvaced\obj\Debug\CSharpAdvanced.csproj.CoreCompileInputs.cache
-D:\Jarek\Projects\CSharp\Learn\CSharp-Learn\CSharpKnowledge\CSharpAdvaced\obj\Debug\CSharpAdvaced.pdb
 D:\Jarek\Projects\CSharp\Learn\CSharp-Learn\CSharpKnowledge\CSharpAdvaced\bin\Debug\CSharpAdvaced.exe
+D:\Jarek\Projects\CSharp\Learn\CSharp-Learn\CSharpKnowledge\CSharpAdvaced\bin\Debug\CSharpAdvaced.pdb
 D:\Jarek\Projects\CSharp\Learn\CSharp-Learn\CSharpKnowledge\CSharpAdvaced\obj\Debug\CSharpAdvaced.exe
+D:\Jarek\Projects\CSharp\Learn\CSharp-Learn\CSharpKnowledge\CSharpAdvaced\obj\Debug\CSharpAdvaced.pdb
+D:\Jarek\Projects\CSharp\Learn\CSharp-Learn\CSharpKnowledge\CSharpAdvaced\obj\Debug\CSharpAdvanced.csprojResolveAssemblyReference.cache

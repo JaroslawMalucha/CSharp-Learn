@@ -16,7 +16,7 @@ namespace CSharpAdvanced.LambdaExpressions
             //   - without signature definition of: accessor, rest is inferred
             // - a special kind of a delegate that points to a function
             // - intrestinh is that this allows to move back the execution into any space, i.e. any line in the application giving you access to its state as a side-efect
-
+            // - a shorter version of an anonymous method
 
 
             int res = 0;
