@@ -46,7 +46,8 @@
     <Compile Include="AnonymousMethods.cs" />
     <Compile Include="ClassesExercises\StackOverflowPost.cs" />
     <Compile Include="ClassesExercises\Stopwatch.cs" />
-    <Compile Include="ClassesExercises\StopwatchDotNet.cs" />
+    <Compile Include="ExpressionBodiedMembers.cs" />
+    <Compile Include="MeasuringTime\StopwatchDotNet.cs" />
     <Compile Include="Cryptography\CeasarCipherApp.cs" />
     <Compile Include="Cryptography\CryptographyApp.cs" />
     <Compile Include="Delegates\Delegates01.cs" />
@@ -75,12 +76,12 @@
     <Compile Include="Interfaces\WorflowEngine\MailingJob.cs" />
     <Compile Include="Interfaces\WorflowEngine\ReportsJob.cs" />
     <Compile Include="Interfaces\WorflowEngine\WorkflowEngine.cs" />
-    <Compile Include="LambdaExpressions\Book.cs" />
     <Compile Include="LambdaExpressions\BookRepository.cs" />
     <Compile Include="LambdaExpressions\LabdaExpressions.cs" />
     <Compile Include="LINQ\BookRepository.cs" />
     <Compile Include="LINQ\TestingLINQ.cs" />
     <Compile Include="LocalFunctionsTest.cs" />
+    <Compile Include="MeasuringTime\Timer.cs" />
     <Compile Include="MethodDescription.cs" />
     <Compile Include="NullableTypes.cs" />
     <Compile Include="Program.cs" />

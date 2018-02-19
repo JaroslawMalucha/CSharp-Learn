@@ -135,8 +135,8 @@ namespace CSharpFundamentals
             if (words.Count == 0)
                 throw new Exception();
             int maxLen = words[0].Length;
-            int maxIndex = 0 ;
-            for ( int i = 1 ; i < words.Count ; i++)
+            int maxIndex = 0;
+            for (int i = 1; i < words.Count; i++)
                 if (words[i].Length > maxLen)
                 {
                     maxLen = words[i].Length;
@@ -171,7 +171,7 @@ namespace CSharpFundamentals
             string file = Path.Combine(folder, fileName);
 
             System.IO.StreamReader sr = new StreamReader(file);
-            Console.WriteLine(sr.ReadToEnd() ); 
+            Console.WriteLine(sr.ReadToEnd());
             sr.Close();
 
         }
@@ -189,6 +189,30 @@ namespace CSharpFundamentals
             {
                 Console.WriteLine($"{new string(' ', indent)} {Path.GetFileName(folder)}");
                 DisplayFolders(folder, indent + 2);
+            }
+        }
+
+
+        private static void ShowAllFoldersUnder(string path, int indent)
+        {
+            foreach (string folder in Directory.GetDirectories(path))
+            {
+                files(folder); // assignment
+                Console.WriteLine("{0}{1}", new string(' ', indent), Path.GetFileName(folder) + " : created on (" + File.GetCreationTime(folder) + ")");
+                ShowAllFoldersUnder(folder, indent + 2);
+            }
+
+
+            // Assignment
+            void files(string folder)
+            {
+                string[] dirs = Directory.GetFiles(folder);
+                //Console.WriteLine("The number of files starting with c is {0}.", dirs.Length);
+                foreach (string dir in dirs)
+                {
+                    //Console.WriteLine(dir,indent+3);
+                    Console.WriteLine("{0}{1}", new string(' ', indent), dir + " : created on (" + File.GetCreationTime(dir) + ")");
+                }
             }
         }
     }

@@ -13,7 +13,9 @@ namespace CSharpAdvanced
         {
             //StackOverflowPost.testStackPost();
             //Stopwatch.testStopwatch();
-            //ClassesExercises.StopwatchDotNet.test();
+
+            //MeasuringTime.StopwatchDotNet.test();
+            //MeasuringTime.Timer.test();
 
             //Baby.testEntity();
 
@@ -27,10 +29,12 @@ namespace CSharpAdvanced
             //Delegates.MulticastDelegate.test();
             //Delegates.GenericDelegates.test();
 
-            AnonymousMethods.test();
-
-            //LambdaExpressions.LabdaExpressions.testLambdaExpressions();
             //EventsAndDelegates.EventsAndDelegates.testEventsAndDelegates();
+
+            //AnonymousMethods.test();
+            //LambdaExpressions.LabdaExpressions.testLambdaExpressions();
+            //ExpressionBodiedMembers.test();
+
             //ExtensionMethods.ExtensionMethods.testExtensionMethods();
             //LINQ.TestingLINQ.testingLINQ();
             //NullableTypes.testNullable();
@@ -59,6 +63,6 @@ namespace CSharpAdvanced
             //    companyName = "Passantori LLC"
             //};
         }
-
+        
     }
 }
