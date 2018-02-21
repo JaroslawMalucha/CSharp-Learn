@@ -52,6 +52,14 @@ namespace CSharpAdvanced
             //CSharpAdvanced.LocalFunctionsTest.test();
 
 
+            //Multithreading.CreatingTreads.test();
+            //Multithreading.WithMultithreadingExample.test();
+            //Multithreading.ParameterizedThreadTest.test();
+            //Multithreading.Deadlocks.test();
+            //Multithreading.MutexTest.test();
+            Multithreading.SemaphorTest.test();
+
+
 
             //var cus = new Customer
             //{

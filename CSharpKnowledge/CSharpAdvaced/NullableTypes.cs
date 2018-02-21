@@ -41,8 +41,10 @@ namespace CSharpAdvanced
             //short
             dateNullable = null;
             date = dateNullable ?? DateTime.Today; // Null Coalescing Operator
-            date = (dateNullable != null) ? dateNullable.GetValueOrDefault() : DateTime.Today;
+            date = (dateNullable != null) ? dateNullable.GetValueOrDefault() : DateTime.Today; // elvis operator
 
+            // super short - skip if null
+            Console.WriteLine(dateNullable?.ToLongDateString());
 
         }
     }

@@ -11,7 +11,7 @@ namespace MainApp
         static void Main(string[] args)
         {
             //CSharpFundamentals.Program.Main(null);
-            CSharpIntermediate.Program.Main(null);
+            //CSharpIntermediate.Program.Main(null);
             //CSharpAdvanced.Program.Main(null);
 
 

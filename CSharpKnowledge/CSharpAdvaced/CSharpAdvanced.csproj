@@ -47,6 +47,7 @@
     <Compile Include="ClassesExercises\StackOverflowPost.cs" />
     <Compile Include="ClassesExercises\Stopwatch.cs" />
     <Compile Include="ExpressionBodiedMembers.cs" />
+    <Compile Include="LINQ\Employees.cs" />
     <Compile Include="MeasuringTime\StopwatchDotNet.cs" />
     <Compile Include="Cryptography\CeasarCipherApp.cs" />
     <Compile Include="Cryptography\CryptographyApp.cs" />
@@ -83,6 +84,12 @@
     <Compile Include="LocalFunctionsTest.cs" />
     <Compile Include="MeasuringTime\Timer.cs" />
     <Compile Include="MethodDescription.cs" />
+    <Compile Include="Multithreading\CreatingTreads.cs" />
+    <Compile Include="Multithreading\Deadlocks.cs" />
+    <Compile Include="Multithreading\MutexTest.cs" />
+    <Compile Include="Multithreading\ParameterizedThreadTest.cs" />
+    <Compile Include="Multithreading\SemaphorTest.cs" />
+    <Compile Include="Multithreading\WithMultithreadingExample.cs" />
     <Compile Include="NullableTypes.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

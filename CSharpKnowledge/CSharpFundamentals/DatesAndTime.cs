@@ -102,6 +102,8 @@ namespace CSharpFundamentals
 
             //Creating
             var timeSpan = new TimeSpan(hours: 1, minutes: 2, seconds: 3);
+            var timeSpanAlt = new TimeSpan(hours: 0, minutes: 62, seconds: 3);
+            Console.WriteLine(timeSpan.Equals(timeSpanAlt));
             var timeSpan1 = new TimeSpan(hours: 1, minutes: 0, seconds: 0);
             var timeSpan2 = TimeSpan.FromHours(1); //same as above
 
@@ -117,6 +119,8 @@ namespace CSharpFundamentals
 
             // Add
             Console.WriteLine("Add Example: " + timeSpan.Add(TimeSpan.FromMinutes(8)));
+
+            // Subtract
             Console.WriteLine("Subtract Example: " + timeSpan.Subtract(TimeSpan.FromMinutes(2)));
 
             // ToString

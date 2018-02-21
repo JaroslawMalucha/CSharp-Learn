@@ -10,13 +10,18 @@ namespace CSharpAdvanced.LINQ
     {
         public static void testingLINQ()
         {
-            // whats LINQ:
-            // Language Integrated Query Language
+            // LINQ - Language Integrated Query Language
+
             // enables you to query objects:
             //  - Objects in memory like Collections, e.g. List (LINQ to Objects)
             //  - Databses (LINQ to Entities)
             //  - XML (LINQ to XML)
             //  - ADO.NET Data Sets (LINQ to Data Sets)
+
+            // Two Syntaxes:
+            // - Method Syntax
+            // - Query Syntax
+
             var books = new BookRepository().GetBooks();
             List<Book> cheapBooks = null;
 
@@ -79,6 +84,66 @@ namespace CSharpAdvanced.LINQ
                 Console.WriteLine(book.Title + " " + book.Price);
 
 
+
+
+
+
+
+            //===========================
+            // Method syntax on employees
+            //===========================
+            var filteredList = new List<Employees>();
+            var listOfEmployees = Employees.GetEmployees();
+            Employees.DisplayWithApparisal(listOfEmployees, "All Employees");
+
+            //Salary is greater than or equal to 6000 and age greater than 40
+            IEnumerable<Employees> emps = listOfEmployees.Where(e => e.Salary >= 6000 && e.Age > 40);
+            filteredList = listOfEmployees.Where(e => e.Salary >= 6000 && e.Age > 40).ToList();
+
+            //Salary is greater than or equal to 6000 and age greater than 40 or salary is greater than or equal 8000
+            filteredList = listOfEmployees.Where(e => e.Salary >= 6000 && e.Age > 40 || e.Salary >= 8000).ToList();
+
+            //===========================
+            // Query syntax on employees
+            //===========================
+
+            //Salary is greater than or equal to 6000 and age greater than 40
+            filteredList = (from emp in listOfEmployees
+                           where emp.Salary >= 6000 && emp.Age > 40
+                           select emp).ToList();
+            Employees.DisplayWithApparisal(filteredList, "filtered...");
+
+            //Salary is greater than or equal to 6000 and age greater than 40 or salary is greater than or equal 8000
+            filteredList = (from emp in listOfEmployees
+                            where emp.Salary >= 6000 && emp.Age > 40 || emp.Salary >= 8000
+                            select emp).ToList();
+
+            //Salary higher than 4000 and last appraisal less than 8
+            filteredList = (from emp in listOfEmployees
+                            where emp.Salary > 4000 && emp.Appraisal[0] < 8
+                            select emp).ToList();
+
+            // Sort by Salary
+            List<Employees> sortedList = null;
+            sortedList = (from emp in listOfEmployees
+                          orderby emp.Salary descending, emp.Appraisal[0] descending
+                          select emp).ToList();
+            Employees.DisplayWithApparisal(sortedList, "sorted...");
+
+            // Sort by Salary with a method
+            sortedList = null;
+            sortedList = SortEmployees(listOfEmployees);
+            Employees.DisplayWithApparisal(sortedList, "sorted...");
+
+
+        }
+
+        internal static List<Employees> SortEmployees(List<Employees> list)
+        {
+            var list2 = from emp in list
+                        orderby emp.Age descending
+                        select emp;
+            return list.ToList();
         }
     }
 }

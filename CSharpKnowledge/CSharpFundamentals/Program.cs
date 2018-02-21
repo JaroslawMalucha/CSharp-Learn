@@ -13,6 +13,7 @@ namespace CSharpFundamentals
         public static void Main(string[] args)
         {
             //Basics.Run();
+            
             //DatesAndTime.testDates();
             //WorkingWithText.testStrings();
             //MathFuncs.testMathFunctions();
@@ -22,27 +23,27 @@ namespace CSharpFundamentals
 
             //Arrays.ArraysBasics();
             //Lists.testList();
-            //CSharpFundamentals.Collections.Non_Generic.ArrayLists.test();
-            //CSharpFundamentals.Collections.Non_Generic.HashTableTest.test();
-            //CSharpFundamentals.Collections.Non_Generic.SortedListTest.test();
-            //CSharpFundamentals.Collections.Non_Generic.StackTest.test();
-            //CSharpFundamentals.Collections.Non_Generic.QueueTest.test();
-            //CSharpFundamentals.Collections.Non_Generic.BitArrayTest.test();
-            //CSharpFundamentals.Collections.AnimalsAndTrainersExercise.run();
-            //CSharpFundamentals.Collections.Non_Generic.NameValueCollectionTest.test();
+            //Collections.Non_Generic.ArrayLists.test();
+            //Collections.Non_Generic.HashTableTest.test();
+            //Collections.Non_Generic.SortedListTest.test();
+            //Collections.Non_Generic.StackTest.test();
+            //Collections.Non_Generic.QueueTest.test();
+            //Collections.Non_Generic.BitArrayTest.test();
+            //Collections.AnimalsAndTrainersExercise.run();
+            //Collections.Non_Generic.NameValueCollectionTest.test();
 
 
-            //CSharpFundamentals.Collections.Generic.ListTest.test();
-            //CSharpFundamentals.Collections.Generic.DictionaryTest.test();
-            //CSharpFundamentals.Collections.Generic.SortedListTest.test();
-            //CSharpFundamentals.Collections.Generic.SortedDictionaryTest.test();
-            //CSharpFundamentals.Collections.Generic.StackTest.test();
-            //CSharpFundamentals.Collections.Generic.QueueTest.test();
-            //CSharpFundamentals.Collections.Generic.KeyValuePairTest.test();
+            //Collections.Generic.ListTest.test();
+            //Collections.Generic.DictionaryTest.test();
+            //Collections.Generic.SortedListTest.test();
+            //Collections.Generic.SortedDictionaryTest.test();
+            //Collections.Generic.StackTest.test();
+            //Collections.Generic.QueueTest.test();
+            //Collections.Generic.KeyValuePairTest.test();
 
-            //CSharpFundamentals.Collections.TupleTest.test();
+            //Collections.TupleTest.test();
 
-            CSharpFundamentals.Arguments.test();
+            //Arguments.test();
 
             //Enumerations.testEnumerations();
             //Types.testTypes();

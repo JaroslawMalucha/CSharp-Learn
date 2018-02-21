@@ -270,6 +270,8 @@ namespace CSharpFundamentals
 
         public static void Operators()
         {
+            //https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/
+
             int a = 2;
             int b = 3;
             double c = 0;
@@ -312,6 +314,9 @@ namespace CSharpFundamentals
             bb = a == a || a == b;
             bb = !(a == a);
 
+            //Logical tertiary operator (aka Elvis Operator), short-circuiting
+            bb = (true) ? true : false;
+
             //Bitwise
             int flagMaskA = 2 ^ 1;
             int flagMaskB = 2 ^ 2;
@@ -324,7 +329,13 @@ namespace CSharpFundamentals
             // &
             // |
 
+            // Null Coalescing Operator - ??
+            DateTime? dateTime = null; 
+            Console.WriteLine(dateTime ?? DateTime.Today);
 
+            // Null-conditional Operators , short-circuiting
+            // also named Safe Navigation operator
+            Console.WriteLine("is null: " + dateTime?.ToLongDateString()  ==  null);
         }
 
 

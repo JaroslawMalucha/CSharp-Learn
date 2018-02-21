@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\CSharpKnowledge"
+    "\\CSharpKnowledge",
+    "\\ExcelManipulation",
+    "\\LearnXML"
   ],
-  "SelectedNode": "\\CSharpKnowledge\\CSharpKnowledgeSol.sln",
+  "SelectedNode": "\\ExcelManipulation\\XLtesting1",
   "PreviewInSolutionExplorer": false
 }
