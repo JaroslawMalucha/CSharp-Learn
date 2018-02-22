@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Speech.Synthesis;
-
+using System.Threading;
 
 namespace CSharpAdvanced
 {
@@ -22,14 +22,26 @@ namespace CSharpAdvanced
             Console.WriteLine("Hello, Nebuchadnezzar");
             Console.WriteLine("writing file...");
 
-            while (!prompt.IsCompleted) { Console.WriteLine("...waiting to complete speech"); }
+            while (!prompt.IsCompleted) { Console.WriteLine("...waiting to complete speech"); Thread.Sleep(500); }
             robot.Speak("Ohh, My King.");
 
             robot.SetOutputToWaveFile(@"C:\jmTEMP\nabu.wav");
             robot.SpeakAsync("Hello, Nebuchadnezzar");
             robot.Speak("Ohh, My King.");
 
+            "Bamboo".Speak();
+
             Console.WriteLine("done");
+        }
+
+    }
+
+    static class StringExtensionsSpeech
+    {
+        public static void Speak(this string textToSpeak)
+        {
+            SpeechSynthesizer robot = new SpeechSynthesizer();
+            robot.Speak(textToSpeak);
         }
     }
 }

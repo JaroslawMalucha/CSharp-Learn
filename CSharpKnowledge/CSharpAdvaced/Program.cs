@@ -73,8 +73,8 @@ namespace CSharpAdvanced
             //AsynchronousProgramming.FastestTaskExample.test();
             //AsynchronousProgramming.ConcurrentStackExample.test();
 
-            SpeechTest.test();
-
+            //SpeechTest.test();
+            //StartingAndStoppingProcesses.test();
 
 
 

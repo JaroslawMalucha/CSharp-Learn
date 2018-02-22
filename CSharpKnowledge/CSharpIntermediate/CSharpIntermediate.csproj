@@ -46,6 +46,7 @@
     <Compile Include="ClassBasics\ClassBasics.cs" />
     <Compile Include="ClassBasics\Customer.cs" />
     <Compile Include="ClassBasics\HttpCookie.cs" />
+    <Compile Include="ClassBasics\Indexers.cs" />
     <Compile Include="Exercises\CarsExercise.cs" />
     <Compile Include="Exercises\Stack.cs" />
     <Compile Include="InheritanceVsComposition\Animal.cs" />
