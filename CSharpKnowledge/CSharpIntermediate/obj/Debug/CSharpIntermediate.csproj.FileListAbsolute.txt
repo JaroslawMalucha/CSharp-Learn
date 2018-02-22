@@ -26,4 +26,3 @@ D:\Jarek\Projects\CSharp\Learn\CSharp-Learn\CSharpKnowledge\CSharpIntermediate\b
 D:\Jarek\Projects\CSharp\Learn\CSharp-Learn\CSharpKnowledge\CSharpIntermediate\obj\Debug\CSharpIntermediate.csproj.CoreCompileInputs.cache
 D:\Jarek\Projects\CSharp\Learn\CSharp-Learn\CSharpKnowledge\CSharpIntermediate\obj\Debug\CSharpIntermediate.exe
 D:\Jarek\Projects\CSharp\Learn\CSharp-Learn\CSharpKnowledge\CSharpIntermediate\obj\Debug\CSharpIntermediate.pdb
-D:\Jarek\Projects\CSharp\Learn\CSharp-Learn\CSharpKnowledge\CSharpIntermediate\obj\Debug\CSharpIntermediate.csprojResolveAssemblyReference.cache

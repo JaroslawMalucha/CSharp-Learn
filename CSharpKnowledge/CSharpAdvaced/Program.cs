@@ -57,7 +57,29 @@ namespace CSharpAdvanced
             //Multithreading.ParameterizedThreadTest.test();
             //Multithreading.Deadlocks.test();
             //Multithreading.MutexTest.test();
-            Multithreading.SemaphorTest.test();
+            //Multithreading.SemaphorTest.test();
+            //Multithreading.ListOfThreads.test();
+
+            //AsynchronousProgramming.TasksTest.test();
+            //AsynchronousProgramming.TasksWithParameters.test();
+            //AsynchronousProgramming.TasksWithReturnValue.test();
+            //AsynchronousProgramming.CheckingTasksStatus.teat();
+            //AsynchronousProgramming.CancellingTasks.test();
+            //AsynchronousProgramming.WaitingForTasks.test();
+            //AsynchronousProgramming.TaskRunApp.test();
+
+            //AsynchronousProgramming.AsyncAwaitApp.test();
+            //AsynchronousProgramming.ConcurrentBagApp.test();
+            //AsynchronousProgramming.FastestTaskExample.test();
+            //AsynchronousProgramming.ConcurrentStackExample.test();
+
+            SpeechTest.test();
+
+
+
+
+            
+
 
 
 
