@@ -15,6 +15,15 @@ namespace CSharpIntermediate.ClassBasics
         //  ...this simplifies control flow
         private readonly List<Order> orders = new List<Order>(); // this makes it readonly even inside the class -> gives us more rigid classes
 
+        // readonly vs. const
+        // readonly:
+        // - runtime var (can be computed dynamically) -> so can be an object
+        // - made readonly after constructor finishes
+        // const:
+        // - compile time (almost since can calculate on const e.g constC = constA + constB)
+        // - implicitly static
+
+
         public string Name { get; set; } //auto property 
         public DateTime BirthDate { get; private set; } //auto property //private makes it readonly 
         public string ID { get; private set; } //auto property //private makes it readonly 

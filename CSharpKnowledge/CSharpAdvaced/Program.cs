@@ -76,10 +76,16 @@ namespace CSharpAdvanced
             //SpeechTest.test();
             //StartingAndStoppingProcesses.test();
 
+            //StaticDirectives.test();
+            //PreprocessorDirectives.test();
+
+            //AssembliesTest.test();
 
 
-            
+            //Attributes.test();
+            //SerializationAndDeserialization.test();
 
+            GUIDtest.test();
 
 
 

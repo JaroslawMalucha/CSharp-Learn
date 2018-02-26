@@ -219,6 +219,20 @@ C:\folder1";
 
             Console.WriteLine(sb==sb2);
             Console.WriteLine(sb.Equals(sb2));
+
+
+
+            // create with limited capacity and max capacity
+            StringBuilder stringBuilder = new StringBuilder(10, 15);
+            try
+            {
+                stringBuilder.Append("Francis you forgot your sandwich again.");
+            }
+            catch (Exception)
+            {
+                Console.WriteLine("exception: max capacity exceeded");
+            }
+
         }
 
         //Write a program and ask the user to enter a few numbers separated by a hyphen.

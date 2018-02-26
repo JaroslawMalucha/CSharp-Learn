@@ -9,12 +9,17 @@ namespace CSharpAdvanced
     public abstract class LivingEntity
     {
         private static int _count;
-
-        public LivingEntity()
+        
+        // constructor
+        public LivingEntity() 
         {
             _count++;
         }
-        ~LivingEntity()
+
+        // destructor or finilizer
+        // http://www.c-sharpcorner.com/UploadFile/72d20e/concept-of-destructor-in-C-Sharp/
+        // https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/destructors
+        ~LivingEntity() 
         {
             _count--;
         }
