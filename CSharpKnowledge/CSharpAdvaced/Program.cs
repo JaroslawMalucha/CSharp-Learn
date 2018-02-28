@@ -85,7 +85,10 @@ namespace CSharpAdvanced
             //Attributes.test();
             //SerializationAndDeserialization.test();
 
-            GUIDtest.test();
+            //GUIDtest.test();
+            //PatternMatchingApp.test();
+            RefLocalRefReturn.test();
+            YieldKeyword.test();
 
 
 
@@ -99,6 +102,6 @@ namespace CSharpAdvanced
             //    companyName = "Passantori LLC"
             //};
         }
-        
+
     }
 }

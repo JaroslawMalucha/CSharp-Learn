@@ -60,6 +60,7 @@
     <Compile Include="Attributes.cs" />
     <Compile Include="ClassesExercises\StackOverflowPost.cs" />
     <Compile Include="ClassesExercises\Stopwatch.cs" />
+    <Compile Include="DLLfiles.cs" />
     <Compile Include="ExpressionBodiedMembers.cs" />
     <Compile Include="GUIDtest.cs" />
     <Compile Include="LINQ\Employees.cs" />
@@ -112,12 +113,14 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Recursion.cs" />
+    <Compile Include="RefLocalRefReturn.cs" />
     <Compile Include="SerializationAndDeserialization.cs" />
     <Compile Include="Snippets.cs" />
     <Compile Include="SpeechTest.cs" />
     <Compile Include="StartingAndStoppingProcesses.cs" />
     <Compile Include="StaticDirectives.cs" />
     <Compile Include="UsingStatement.cs" />
+    <Compile Include="YieldKeyword.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

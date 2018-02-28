@@ -13,7 +13,7 @@ namespace CSharpFundamentals
         public static void Main(string[] args)
         {
             //Basics.Run();
-            
+
             //DatesAndTime.testDates();
             //WorkingWithText.testStrings();
             //MathFuncs.testMathFunctions();
@@ -42,6 +42,8 @@ namespace CSharpFundamentals
             //Collections.Generic.KeyValuePairTest.test();
 
             //Collections.TupleTest.test();
+
+            IEnumerableApp.IEnumerableTest.test();
 
             //Arguments.test();
 

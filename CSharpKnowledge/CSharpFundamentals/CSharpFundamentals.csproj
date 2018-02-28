@@ -83,10 +83,10 @@
     <Compile Include="Conditionals\Conditionals.cs" />
     <Compile Include="DatesAndTime.cs" />
     <Compile Include="ExerciseFileCreator.cs" />
-    <Compile Include="IEnumerable\Enumerations.cs" />
-    <Compile Include="IEnumerable\car.cs" />
-    <Compile Include="IEnumerable\Cars.cs" />
+    <Compile Include="Enumerations.cs" />
+    <Compile Include="IEnumerableApp\Cars.cs" />
     <Compile Include="Collections\Lists.cs" />
+    <Compile Include="IEnumerableApp\IEnumerableTest.cs" />
     <Compile Include="Loops\Loops.cs" />
     <Compile Include="Loops\Loops2.cs" />
     <Compile Include="Loops\LoopsExercise.cs" />
