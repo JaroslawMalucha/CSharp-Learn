@@ -150,6 +150,7 @@ namespace CSharpFundamentals.IEnumerableApp
                 }
             }
         }  //end nested class
+
         private class MyEnumeratorGENERIC : IEnumerator<car>
         {
             public car[] carlist;

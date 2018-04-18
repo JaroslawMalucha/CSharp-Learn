@@ -43,7 +43,7 @@ namespace CSharpFundamentals
 
             //Collections.TupleTest.test();
 
-            IEnumerableApp.IEnumerableTest.test();
+            //IEnumerableApp.IEnumerableTest.test();
 
             //Arguments.test();
 
@@ -58,6 +58,15 @@ namespace CSharpFundamentals
 
             //WorkingWithFiles.testFiles();
             //ExerciseFilesCreator.test();
+
+
+
+            SayHi();
+
+        }
+        public static dynamic SayHi()
+        {
+            return "Hi";
         }
     }
 }
