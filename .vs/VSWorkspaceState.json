@@ -2,9 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\CSharpKnowledge",
+    "\\CSharpKnowledge\\CSharpAdvaced",
+    "\\CSharpKnowledge\\CSharpAdvaced\\Serialiation",
     "\\ExcelManipulation",
     "\\LearnXML"
   ],
-  "SelectedNode": "\\ExcelManipulation\\XLtesting1",
+  "SelectedNode": "\\CSharpKnowledge",
   "PreviewInSolutionExplorer": false
 }

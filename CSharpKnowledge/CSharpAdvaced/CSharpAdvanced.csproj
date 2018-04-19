@@ -114,7 +114,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Recursion.cs" />
     <Compile Include="RefLocalRefReturn.cs" />
-    <Compile Include="SerializationAndDeserialization.cs" />
+    <Compile Include="Serialization\ProgramSimulation.cs" />
+    <Compile Include="Serialization\Serialization1.cs" />
+    <Compile Include="Serialization\SerializationAndDeserialization.cs" />
     <Compile Include="Snippets.cs" />
     <Compile Include="SpeechTest.cs" />
     <Compile Include="StartingAndStoppingProcesses.cs" />

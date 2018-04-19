@@ -83,12 +83,12 @@ namespace CSharpAdvanced
 
 
             //Attributes.test();
-            //SerializationAndDeserialization.test();
+            Serialization.SerializationAndDeserialization.test();
 
             //GUIDtest.test();
             //PatternMatchingApp.test();
-            RefLocalRefReturn.test();
-            YieldKeyword.test();
+            //RefLocalRefReturn.test();
+            //YieldKeyword.test();
 
 
 
